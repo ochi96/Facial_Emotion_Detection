@@ -5,6 +5,7 @@ import tensorflow as tf
 import numpy as np
 import time
 import logging
+from threaded_cam import VideoStreamWidget
 
 logging.basicConfig(level=logging.DEBUG,filename="info.log", filemode='w')
 
@@ -18,11 +19,13 @@ class FER():
 
     def __init__(self) -> None:
         self.__offsets = (10, 10)
+        self.__livefeed = VideoStreamWidget()
         self.__emotion_classifier = tf.lite.Interpreter('./Models/production_fer_model.tflite')
         self.__emotion_classifier.allocate_tensors()
         self.__emotion_target_size = (64,64)
         self.__padding = 5
         self.__mp_face_detection = mp.solutions.face_detection
+        self.__labels = { 0: "angry", 1: "disgust", 2: "fear", 3: "happy", 4: "sad", 5: "surprise", 6: "neutral"}
 
     def __pad(self, image):
         row, col = image.shape[:2]
@@ -38,10 +41,6 @@ class FER():
             value=[mean, mean, mean],
         )
         return padded_image
-    
-    @staticmethod
-    def _get_labels():
-        return { 0: "angry", 1: "disgust", 2: "fear", 3: "happy", 4: "sad", 5: "surprise", 6: "neutral"}
 
     @staticmethod
     def __tosquare(bbox):
@@ -85,11 +84,9 @@ class FER():
         w_ =  rel_w *w
         h_ =  rel_h *h
 
-        face_coordinates = [int(item) for item in [x, y, h_, w_]]
-        face_coordinates = self.__tosquare(face_coordinates)
+        face_coordinates = self.__tosquare([int(item) for item in [x, y, h_, w_]])
         x1, x2, y1, y2 = self.__apply_offsets(face_coordinates)
-        
-        # adjust for padding
+
         x1 += self.__padding
         x2 += self.__padding
         y1 += self.__padding
@@ -108,12 +105,11 @@ class FER():
     
     def predict_emotion(self, gray_face):
 
-        emotion_labels = self._get_labels()
         self.__emotion_classifier.set_tensor(self.__emotion_classifier.get_input_details()[0]['index'], gray_face)
         self.__emotion_classifier.invoke()
-        
+
         emotion_prediction = self.__emotion_classifier.get_tensor(self.__emotion_classifier.get_output_details()[0]['index'])[0]
-        labelled_emotions = {emotion_labels[idx]: round(float(score), 2) for idx, score in enumerate(emotion_prediction)}
+        labelled_emotions = {self.__labels[idx]: round(float(score), 2) for idx, score in enumerate(emotion_prediction)}
 
         emotion = max(labelled_emotions, key=labelled_emotions.get)
         score = max(labelled_emotions.values())
@@ -122,17 +118,17 @@ class FER():
     
     @staticmethod
     def display_results(image, face_coordinates, emotion, score, font_scale = 0.5, font = cv2.FONT_HERSHEY_SIMPLEX, FONT_COLOR = (0, 0, 0),
-                        FONT_THICKNESS = 2, rectangle_pos = (255, 0, 0), rectangle_neg = (0, 0, 255) ):
+                        FONT_THICKNESS = 1, rectangle_pos = (200, 0, 0), rectangle_neg = (0, 0, 200) ):
         text = '{0}: {1}'.format(emotion, score)
         x, y, w, h = face_coordinates
         positive_emotions = ['happy','surprise', 'neutral']
         if emotion in positive_emotions:
-            cv2.rectangle(image, (x, y), (x + w, y + h), rectangle_pos, 2)
+            cv2.rectangle(image, (x, y), (x + w, y + h), rectangle_pos, 1)
         else:
-            cv2.rectangle(image, (x, y), (x + w, y + h), rectangle_neg, 2)
+            cv2.rectangle(image, (x, y), (x + w, y + h), rectangle_neg, 1)
         
         text_x, text_y = (x, y-10)
-        (text_width, text_height) = cv2.getTextSize(text, font, fontScale=font_scale, thickness=2)[0]
+        (text_width, text_height) = cv2.getTextSize(text, font, fontScale=font_scale, thickness=1)[0]
         box_coords = ((text_x - 10, text_y + 4), (text_x + text_width + 10, text_y - text_height - 5))
         cv2.rectangle(image, box_coords[0], box_coords[1], (0, 255, 0), cv2.FILLED)
         cv2.putText(image, text, (text_x, text_y), font, fontScale=font_scale, color=FONT_COLOR,thickness=FONT_THICKNESS)
@@ -140,13 +136,11 @@ class FER():
         return image
 
     def detect_emotions(self):
-        cap = cv2.VideoCapture(1)
+        # cap = cv2.VideoCapture(1)
         with self.__mp_face_detection.FaceDetection(model_selection=0, min_detection_confidence=0.7) as face_detection:
-            while cap.isOpened():
-                success, image = cap.read()
-                if not success:
-                    print("Ignoring empty camera frame.")
-                    break
+            while True:
+                start = time.time()
+                image = self.__livefeed.read()
                 image.flags.writeable = False
                 image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
                 results = face_detection.process(image)
@@ -157,13 +151,22 @@ class FER():
                 if results.detections:
                     for detection in results.detections:
                         face_coordinates, gray_face = self.__facepad(image, detection)
+                        inference_start = time.time()
                         emotion, score = self.predict_emotion(gray_face)
                         logging.debug('{0}: ({1} {2})'.format(time.time(), emotion, score))
+                        logging.debug('Inference Time : {0}'.format(time.time() - inference_start))
                         image = self.display_results(image, face_coordinates, emotion, score)
                     cv2.imshow('MediaPipe Face Detection', image)
-                    if cv2.waitKey(5) & 0xFF == 27:
+                    logging.debug('Total time : {}'.format(time.time()-start))
+                    if cv2.waitKey(5) & 0xFF == ord('q'):
                         break
         cap.release()
+        pass
 
 
-FER().detect_emotions()
+if __name__ == '__main__':
+    FER().detect_emotions()
+
+
+
+# FER().detect_emotions()
