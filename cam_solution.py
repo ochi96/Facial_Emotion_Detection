@@ -1,4 +1,3 @@
-import os
 import cv2
 import mediapipe as mp
 import tensorflow as tf
@@ -136,7 +135,6 @@ class FER():
         return image
 
     def detect_emotions(self):
-        # cap = cv2.VideoCapture(1)
         with self.__mp_face_detection.FaceDetection(model_selection=0, min_detection_confidence=0.7) as face_detection:
             while True:
                 start = time.time()
@@ -160,13 +158,8 @@ class FER():
                     logging.debug('Total time : {}'.format(time.time()-start))
                     if cv2.waitKey(5) & 0xFF == ord('q'):
                         break
-        cap.release()
         pass
 
 
 if __name__ == '__main__':
     FER().detect_emotions()
-
-
-
-# FER().detect_emotions()
