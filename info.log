@@ -1,2 +1,3726 @@
-DEBUG:root:1647233034.1498706: (neutral 0.46)
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.21, 'sad': 0.42, 'surprise': 0.02, 'neutral': 0.24}
+DEBUG:root:(sad 0.42)
+DEBUG:root:Inference Time : 0.004004955291748047
+DEBUG:root:Total time : 0.9649991989135742
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.22, 'sad': 0.51, 'surprise': 0.01, 'neutral': 0.18}
+DEBUG:root:(sad 0.51)
+DEBUG:root:Inference Time : 0.002002239227294922
+DEBUG:root:Total time : 0.01599717140197754
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.09, 'sad': 0.52, 'surprise': 0.02, 'neutral': 0.23}
+DEBUG:root:(sad 0.52)
+DEBUG:root:Inference Time : 0.0030024051666259766
+DEBUG:root:Total time : 0.015004873275756836
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.13, 'happy': 0.08, 'sad': 0.49, 'surprise': 0.03, 'neutral': 0.22}
+DEBUG:root:(sad 0.49)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.016000986099243164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.01, 'fear': 0.06, 'happy': 0.1, 'sad': 0.41, 'surprise': 0.03, 'neutral': 0.34}
+DEBUG:root:(sad 0.41)
+DEBUG:root:Inference Time : 0.002003192901611328
+DEBUG:root:Total time : 0.04298758506774902
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.01, 'fear': 0.06, 'happy': 0.1, 'sad': 0.41, 'surprise': 0.03, 'neutral': 0.34}
+DEBUG:root:(sad 0.41)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.018963098526000977
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.22, 'sad': 0.18, 'surprise': 0.02, 'neutral': 0.49}
+DEBUG:root:(neutral 0.49)
+DEBUG:root:Inference Time : 0.004000425338745117
+DEBUG:root:Total time : 0.013001441955566406
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.14, 'sad': 0.42, 'surprise': 0.05, 'neutral': 0.29}
+DEBUG:root:(sad 0.42)
+DEBUG:root:Inference Time : 0.003009796142578125
+DEBUG:root:Total time : 0.04204082489013672
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.2, 'sad': 0.42, 'surprise': 0.06, 'neutral': 0.2}
+DEBUG:root:(sad 0.42)
+DEBUG:root:Inference Time : 0.005998134613037109
+DEBUG:root:Total time : 0.02700042724609375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.22, 'sad': 0.3, 'surprise': 0.05, 'neutral': 0.34}
+DEBUG:root:(neutral 0.34)
+DEBUG:root:Inference Time : 0.0029942989349365234
+DEBUG:root:Total time : 0.024016380310058594
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.27, 'sad': 0.18, 'surprise': 0.04, 'neutral': 0.46}
+DEBUG:root:(neutral 0.46)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.022003889083862305
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.44, 'sad': 0.13, 'surprise': 0.05, 'neutral': 0.32}
+DEBUG:root:(happy 0.44)
+DEBUG:root:Inference Time : 0.0029938220977783203
+DEBUG:root:Total time : 0.025998592376708984
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.32, 'sad': 0.17, 'surprise': 0.05, 'neutral': 0.39}
+DEBUG:root:(neutral 0.39)
+DEBUG:root:Inference Time : 0.0029952526092529297
+DEBUG:root:Total time : 0.024000167846679688
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.37, 'sad': 0.15, 'surprise': 0.04, 'neutral': 0.4}
+DEBUG:root:(neutral 0.4)
+DEBUG:root:Inference Time : 0.0030007362365722656
+DEBUG:root:Total time : 0.026998519897460938
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.13, 'sad': 0.3, 'surprise': 0.02, 'neutral': 0.49}
+DEBUG:root:(neutral 0.49)
+DEBUG:root:Inference Time : 0.001995563507080078
+DEBUG:root:Total time : 0.04200315475463867
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.13, 'sad': 0.3, 'surprise': 0.02, 'neutral': 0.49}
+DEBUG:root:(neutral 0.49)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.012999773025512695
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.16, 'sad': 0.31, 'surprise': 0.03, 'neutral': 0.43}
+DEBUG:root:(neutral 0.43)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.011000394821166992
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.04, 'sad': 0.54, 'surprise': 0.01, 'neutral': 0.33}
+DEBUG:root:(sad 0.54)
+DEBUG:root:Inference Time : 0.0019979476928710938
+DEBUG:root:Total time : 0.017000675201416016
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.25, 'sad': 0.26, 'surprise': 0.01, 'neutral': 0.41}
+DEBUG:root:(neutral 0.41)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.02600693702697754
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.3, 'sad': 0.19, 'surprise': 0.02, 'neutral': 0.42}
+DEBUG:root:(neutral 0.42)
+DEBUG:root:Inference Time : 0.0029954910278320312
+DEBUG:root:Total time : 0.05700373649597168
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.11, 'sad': 0.44, 'surprise': 0.01, 'neutral': 0.38}
+DEBUG:root:(sad 0.44)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.026999711990356445
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.14, 'sad': 0.32, 'surprise': 0.01, 'neutral': 0.46}
+DEBUG:root:(neutral 0.46)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.024001598358154297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.13, 'sad': 0.26, 'surprise': 0.02, 'neutral': 0.52}
+DEBUG:root:(neutral 0.52)
+DEBUG:root:Inference Time : 0.0029942989349365234
+DEBUG:root:Total time : 0.054996490478515625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.13, 'sad': 0.26, 'surprise': 0.02, 'neutral': 0.52}
+DEBUG:root:(neutral 0.52)
+DEBUG:root:Inference Time : 0.0029952526092529297
+DEBUG:root:Total time : 0.011003255844116211
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.12, 'sad': 0.26, 'surprise': 0.04, 'neutral': 0.52}
+DEBUG:root:(neutral 0.52)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.02399754524230957
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.12, 'sad': 0.26, 'surprise': 0.04, 'neutral': 0.52}
+DEBUG:root:(neutral 0.52)
+DEBUG:root:Inference Time : 0.003998994827270508
+DEBUG:root:Total time : 0.013005495071411133
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.23, 'sad': 0.21, 'surprise': 0.03, 'neutral': 0.44}
+DEBUG:root:(neutral 0.44)
+DEBUG:root:Inference Time : 0.0029952526092529297
+DEBUG:root:Total time : 0.01200103759765625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.22, 'sad': 0.21, 'surprise': 0.01, 'neutral': 0.51}
+DEBUG:root:(neutral 0.51)
+DEBUG:root:Inference Time : 0.001992464065551758
+DEBUG:root:Total time : 0.015004396438598633
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.15, 'sad': 0.21, 'surprise': 0.02, 'neutral': 0.58}
+DEBUG:root:(neutral 0.58)
+DEBUG:root:Inference Time : 0.0030062198638916016
+DEBUG:root:Total time : 0.03299689292907715
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.1, 'sad': 0.24, 'surprise': 0.01, 'neutral': 0.58}
+DEBUG:root:(neutral 0.58)
+DEBUG:root:Inference Time : 0.0029926300048828125
+DEBUG:root:Total time : 0.021005630493164062
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.36, 'sad': 0.1, 'surprise': 0.0, 'neutral': 0.49}
+DEBUG:root:(neutral 0.49)
+DEBUG:root:Inference Time : 0.001994609832763672
+DEBUG:root:Total time : 0.021004915237426758
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.11, 'sad': 0.12, 'surprise': 0.0, 'neutral': 0.73}
+DEBUG:root:(neutral 0.73)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.05800199508666992
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.07, 'sad': 0.1, 'surprise': 0.0, 'neutral': 0.79}
+DEBUG:root:(neutral 0.79)
+DEBUG:root:Inference Time : 0.002002239227294922
+DEBUG:root:Total time : 0.027001142501831055
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.03, 'sad': 0.09, 'surprise': 0.0, 'neutral': 0.85}
+DEBUG:root:(neutral 0.85)
+DEBUG:root:Inference Time : 0.0030019283294677734
+DEBUG:root:Total time : 0.026005029678344727
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.12, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.73}
+DEBUG:root:(neutral 0.73)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.023001670837402344
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.09, 'sad': 0.09, 'surprise': 0.02, 'neutral': 0.76}
+DEBUG:root:(neutral 0.76)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.04099917411804199
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.09, 'sad': 0.09, 'surprise': 0.02, 'neutral': 0.76}
+DEBUG:root:(neutral 0.76)
+DEBUG:root:Inference Time : 0.003002166748046875
+DEBUG:root:Total time : 0.012002229690551758
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.06, 'sad': 0.14, 'surprise': 0.02, 'neutral': 0.72}
+DEBUG:root:(neutral 0.72)
+DEBUG:root:Inference Time : 0.0020017623901367188
+DEBUG:root:Total time : 0.011006355285644531
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.02, 'sad': 0.1, 'surprise': 0.03, 'neutral': 0.77}
+DEBUG:root:(neutral 0.77)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.020007848739624023
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.12, 'sad': 0.08, 'surprise': 0.01, 'neutral': 0.72}
+DEBUG:root:(neutral 0.72)
+DEBUG:root:Inference Time : 0.001990795135498047
+DEBUG:root:Total time : 0.024008989334106445
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.21, 'sad': 0.09, 'surprise': 0.03, 'neutral': 0.57}
+DEBUG:root:(neutral 0.57)
+DEBUG:root:Inference Time : 0.0020003318786621094
+DEBUG:root:Total time : 0.02900242805480957
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.18, 'sad': 0.05, 'surprise': 0.02, 'neutral': 0.65}
+DEBUG:root:(neutral 0.65)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.024002552032470703
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.12, 'sad': 0.14, 'surprise': 0.02, 'neutral': 0.59}
+DEBUG:root:(neutral 0.59)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.025008440017700195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.14, 'sad': 0.08, 'surprise': 0.04, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.05600881576538086
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.1, 'sad': 0.07, 'surprise': 0.04, 'neutral': 0.69}
+DEBUG:root:(neutral 0.69)
 DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.02700185775756836
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.12, 'sad': 0.08, 'surprise': 0.02, 'neutral': 0.68}
+DEBUG:root:(neutral 0.68)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.042002201080322266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.12, 'sad': 0.08, 'surprise': 0.02, 'neutral': 0.68}
+DEBUG:root:(neutral 0.68)
+DEBUG:root:Inference Time : 0.002999544143676758
+DEBUG:root:Total time : 0.011003732681274414
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.18, 'sad': 0.06, 'surprise': 0.04, 'neutral': 0.67}
+DEBUG:root:(neutral 0.67)
+DEBUG:root:Inference Time : 0.0030007362365722656
+DEBUG:root:Total time : 0.011999368667602539
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.13, 'sad': 0.08, 'surprise': 0.02, 'neutral': 0.7}
+DEBUG:root:(neutral 0.7)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.01800251007080078
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.15, 'sad': 0.07, 'surprise': 0.02, 'neutral': 0.72}
+DEBUG:root:(neutral 0.72)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.028987884521484375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.11, 'sad': 0.08, 'surprise': 0.02, 'neutral': 0.68}
+DEBUG:root:(neutral 0.68)
+DEBUG:root:Inference Time : 0.003998279571533203
+DEBUG:root:Total time : 0.023998498916625977
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.16, 'sad': 0.06, 'surprise': 0.02, 'neutral': 0.7}
+DEBUG:root:(neutral 0.7)
+DEBUG:root:Inference Time : 0.0019931793212890625
+DEBUG:root:Total time : 0.023004770278930664
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.09, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.0019958019256591797
+DEBUG:root:Total time : 0.027002334594726562
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.3, 'sad': 0.06, 'surprise': 0.03, 'neutral': 0.54}
+DEBUG:root:(neutral 0.54)
+DEBUG:root:Inference Time : 0.0029952526092529297
+DEBUG:root:Total time : 0.026003122329711914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.3, 'sad': 0.05, 'surprise': 0.04, 'neutral': 0.55}
+DEBUG:root:(neutral 0.55)
+DEBUG:root:Inference Time : 0.0030007362365722656
+DEBUG:root:Total time : 0.025003671646118164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.66, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.25}
+DEBUG:root:(happy 0.66)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.07500171661376953
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.66, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.25}
+DEBUG:root:(happy 0.66)
+DEBUG:root:Inference Time : 0.0020072460174560547
+DEBUG:root:Total time : 0.009000778198242188
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.96, 'sad': 0.01, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.96)
+DEBUG:root:Inference Time : 0.0020036697387695312
+DEBUG:root:Total time : 0.010000228881835938
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.99, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.01}
+DEBUG:root:(happy 0.99)
+DEBUG:root:Inference Time : 0.002004384994506836
+DEBUG:root:Total time : 0.022007226943969727
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019960403442382812
+DEBUG:root:Total time : 0.027004003524780273
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.99, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 0.99)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.024998188018798828
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029938220977783203
+DEBUG:root:Total time : 0.025005340576171875
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.025002002716064453
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002966165542602539
+DEBUG:root:Total time : 0.026001930236816406
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030069351196289062
+DEBUG:root:Total time : 0.026013851165771484
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.020002365112304688
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.04401421546936035
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029964447021484375
+DEBUG:root:Total time : 0.025997638702392578
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001995086669921875
+DEBUG:root:Total time : 0.02601003646850586
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030069351196289062
+DEBUG:root:Total time : 0.023998022079467773
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.02499842643737793
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002999544143676758
+DEBUG:root:Total time : 0.02500319480895996
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.024999380111694336
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002000570297241211
+DEBUG:root:Total time : 0.026006221771240234
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001995086669921875
+DEBUG:root:Total time : 0.025999784469604492
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003002166748046875
+DEBUG:root:Total time : 0.026011228561401367
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002001047134399414
+DEBUG:root:Total time : 0.03899693489074707
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003993988037109375
+DEBUG:root:Total time : 0.027004241943359375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.026002883911132812
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0060002803802490234
+DEBUG:root:Total time : 0.030003786087036133
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003006458282470703
+DEBUG:root:Total time : 0.054009437561035156
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.006003141403198242
+DEBUG:root:Total time : 0.016002416610717773
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.012003421783447266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030031204223632812
+DEBUG:root:Total time : 0.016008853912353516
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.021999597549438477
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.027005910873413086
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.02600407600402832
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019991397857666016
+DEBUG:root:Total time : 0.04100227355957031
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002001047134399414
+DEBUG:root:Total time : 0.024008750915527344
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030031204223632812
+DEBUG:root:Total time : 0.027004241943359375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.02600693702697754
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029942989349365234
+DEBUG:root:Total time : 0.02500152587890625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.02800607681274414
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.027000904083251953
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029959678649902344
+DEBUG:root:Total time : 0.02200007438659668
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.024001121520996094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029959678649902344
+DEBUG:root:Total time : 0.026002883911132812
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.0390012264251709
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029935836791992188
+DEBUG:root:Total time : 0.02500462532043457
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019989013671875
+DEBUG:root:Total time : 0.023999929428100586
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.02601146697998047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.025002717971801758
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019958019256591797
+DEBUG:root:Total time : 0.024001598358154297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030078887939453125
+DEBUG:root:Total time : 0.02499532699584961
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030028820037841797
+DEBUG:root:Total time : 0.024009227752685547
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.99, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.01}
+DEBUG:root:(happy 0.99)
+DEBUG:root:Inference Time : 0.0029954910278320312
+DEBUG:root:Total time : 0.02700519561767578
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.87, 'sad': 0.01, 'surprise': 0.0, 'neutral': 0.05}
+DEBUG:root:(happy 0.87)
+DEBUG:root:Inference Time : 0.0029954910278320312
+DEBUG:root:Total time : 0.02300286293029785
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.73, 'sad': 0.03, 'surprise': 0.0, 'neutral': 0.12}
+DEBUG:root:(happy 0.73)
+DEBUG:root:Inference Time : 0.001999378204345703
+DEBUG:root:Total time : 0.04200124740600586
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.15, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.63, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.13}
+DEBUG:root:(happy 0.63)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.0240018367767334
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.15, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.18, 'sad': 0.1, 'surprise': 0.01, 'neutral': 0.48}
+DEBUG:root:(neutral 0.48)
+DEBUG:root:Inference Time : 0.0019960403442382812
+DEBUG:root:Total time : 0.025004148483276367
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.18, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.37, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.3}
+DEBUG:root:(happy 0.37)
+DEBUG:root:Inference Time : 0.0020058155059814453
+DEBUG:root:Total time : 0.024008989334106445
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.53, 'sad': 0.07, 'surprise': 0.02, 'neutral': 0.26}
+DEBUG:root:(happy 0.53)
+DEBUG:root:Inference Time : 0.002001523971557617
+DEBUG:root:Total time : 0.028005123138427734
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.21, 'sad': 0.1, 'surprise': 0.03, 'neutral': 0.48}
+DEBUG:root:(neutral 0.48)
+DEBUG:root:Inference Time : 0.0029976367950439453
+DEBUG:root:Total time : 0.029009342193603516
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.19, 'sad': 0.11, 'surprise': 0.03, 'neutral': 0.48}
+DEBUG:root:(neutral 0.48)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.022000551223754883
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.1, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.16, 'sad': 0.11, 'surprise': 0.02, 'neutral': 0.57}
+DEBUG:root:(neutral 0.57)
+DEBUG:root:Inference Time : 0.0019958019256591797
+DEBUG:root:Total time : 0.025009870529174805
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.09, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.14, 'sad': 0.1, 'surprise': 0.02, 'neutral': 0.59}
+DEBUG:root:(neutral 0.59)
+DEBUG:root:Inference Time : 0.0029985904693603516
+DEBUG:root:Total time : 0.02500152587890625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.06, 'sad': 0.14, 'surprise': 0.03, 'neutral': 0.57}
+DEBUG:root:(neutral 0.57)
+DEBUG:root:Inference Time : 0.0029954910278320312
+DEBUG:root:Total time : 0.02400660514831543
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.19, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.01, 'sad': 0.29, 'surprise': 0.01, 'neutral': 0.41}
+DEBUG:root:(neutral 0.41)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.04100465774536133
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.01, 'sad': 0.27, 'surprise': 0.0, 'neutral': 0.41}
+DEBUG:root:(neutral 0.41)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.026001453399658203
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.14, 'disgust': 0.0, 'fear': 0.12, 'happy': 0.01, 'sad': 0.22, 'surprise': 0.01, 'neutral': 0.5}
+DEBUG:root:(neutral 0.5)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.02300429344177246
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.16, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.02, 'sad': 0.25, 'surprise': 0.03, 'neutral': 0.32}
+DEBUG:root:(neutral 0.32)
+DEBUG:root:Inference Time : 0.0029990673065185547
+DEBUG:root:Total time : 0.025003910064697266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.17, 'disgust': 0.0, 'fear': 0.17, 'happy': 0.04, 'sad': 0.3, 'surprise': 0.02, 'neutral': 0.3}
+DEBUG:root:(sad 0.3)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.02600836753845215
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.03, 'sad': 0.23, 'surprise': 0.01, 'neutral': 0.38}
+DEBUG:root:(neutral 0.38)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.02500462532043457
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.18, 'disgust': 0.0, 'fear': 0.15, 'happy': 0.04, 'sad': 0.26, 'surprise': 0.02, 'neutral': 0.36}
+DEBUG:root:(neutral 0.36)
+DEBUG:root:Inference Time : 0.0019922256469726562
+DEBUG:root:Total time : 0.023002147674560547
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.1, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.0, 'sad': 0.39, 'surprise': 0.0, 'neutral': 0.42}
+DEBUG:root:(neutral 0.42)
+DEBUG:root:Inference Time : 0.003002643585205078
+DEBUG:root:Total time : 0.030004262924194336
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.11, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.02, 'sad': 0.27, 'surprise': 0.01, 'neutral': 0.53}
+DEBUG:root:(neutral 0.53)
+DEBUG:root:Inference Time : 0.002988100051879883
+DEBUG:root:Total time : 0.02300238609313965
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.13, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.01, 'sad': 0.12, 'surprise': 0.0, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.025001049041748047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.13, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.01, 'sad': 0.09, 'surprise': 0.02, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.03999900817871094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.02, 'sad': 0.06, 'surprise': 0.06, 'neutral': 0.69}
+DEBUG:root:(neutral 0.69)
+DEBUG:root:Inference Time : 0.021993637084960938
+DEBUG:root:Total time : 0.04602670669555664
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.15, 'happy': 0.0, 'sad': 0.01, 'surprise': 0.72, 'neutral': 0.04}
+DEBUG:root:(surprise 0.72)
+DEBUG:root:Inference Time : 0.0020003318786621094
+DEBUG:root:Total time : 0.009999513626098633
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.0, 'sad': 0.01, 'surprise': 0.7, 'neutral': 0.0}
+DEBUG:root:(surprise 0.7)
+DEBUG:root:Inference Time : 0.002997875213623047
+DEBUG:root:Total time : 0.02100229263305664
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.0, 'sad': 0.01, 'surprise': 0.82, 'neutral': 0.01}
+DEBUG:root:(surprise 0.82)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.025005102157592773
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.96, 'neutral': 0.0}
+DEBUG:root:(surprise 0.96)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.023006439208984375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.96, 'neutral': 0.01}
+DEBUG:root:(surprise 0.96)
+DEBUG:root:Inference Time : 0.0029931068420410156
+DEBUG:root:Total time : 0.025005340576171875
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.02501082420349121
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.94, 'neutral': 0.0}
+DEBUG:root:(surprise 0.94)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.029002904891967773
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.95, 'neutral': 0.0}
+DEBUG:root:(surprise 0.95)
+DEBUG:root:Inference Time : 0.0029964447021484375
+DEBUG:root:Total time : 0.02200174331665039
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.99, 'neutral': 0.0}
+DEBUG:root:(surprise 0.99)
+DEBUG:root:Inference Time : 0.0029916763305664062
+DEBUG:root:Total time : 0.07400250434875488
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.99, 'neutral': 0.0}
+DEBUG:root:(surprise 0.99)
+DEBUG:root:Inference Time : 0.003998994827270508
+DEBUG:root:Total time : 0.014010906219482422
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.0020017623901367188
+DEBUG:root:Total time : 0.010006427764892578
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.01900649070739746
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0019979476928710938
+DEBUG:root:Total time : 0.02500152587890625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.96, 'neutral': 0.0}
+DEBUG:root:(surprise 0.96)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.024003267288208008
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.02600383758544922
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.96, 'neutral': 0.0}
+DEBUG:root:(surprise 0.96)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.022001981735229492
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029969215393066406
+DEBUG:root:Total time : 0.025006771087646484
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.02600407600402832
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.94, 'neutral': 0.0}
+DEBUG:root:(surprise 0.94)
+DEBUG:root:Inference Time : 0.0019969940185546875
+DEBUG:root:Total time : 0.021002769470214844
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.94, 'neutral': 0.0}
+DEBUG:root:(surprise 0.94)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.04500627517700195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.94, 'neutral': 0.0}
+DEBUG:root:(surprise 0.94)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.011003255844116211
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.003998756408691406
+DEBUG:root:Total time : 0.010004758834838867
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.96, 'neutral': 0.0}
+DEBUG:root:(surprise 0.96)
+DEBUG:root:Inference Time : 0.0039997100830078125
+DEBUG:root:Total time : 0.05700230598449707
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.96, 'neutral': 0.0}
+DEBUG:root:(surprise 0.96)
+DEBUG:root:Inference Time : 0.001995086669921875
+DEBUG:root:Total time : 0.022001028060913086
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.025000810623168945
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.024002790451049805
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029959678649902344
+DEBUG:root:Total time : 0.02300572395324707
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.99, 'neutral': 0.0}
+DEBUG:root:(surprise 0.99)
+DEBUG:root:Inference Time : 0.0019991397857666016
+DEBUG:root:Total time : 0.027005910873413086
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029926300048828125
+DEBUG:root:Total time : 0.02200937271118164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.003001689910888672
+DEBUG:root:Total time : 0.04500269889831543
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.0040090084075927734
+DEBUG:root:Total time : 0.011005401611328125
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.010003089904785156
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.0029969215393066406
+DEBUG:root:Total time : 0.023005962371826172
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.0020017623901367188
+DEBUG:root:Total time : 0.02500438690185547
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.05699968338012695
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.025001049041748047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.025997638702392578
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.0029935836791992188
+DEBUG:root:Total time : 0.02300286293029785
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.002993345260620117
+DEBUG:root:Total time : 0.0240023136138916
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0030057430267333984
+DEBUG:root:Total time : 0.04400897026062012
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0029735565185546875
+DEBUG:root:Total time : 0.013997077941894531
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.011995553970336914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.002000093460083008
+DEBUG:root:Total time : 0.01599860191345215
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.99, 'neutral': 0.0}
+DEBUG:root:(surprise 0.99)
+DEBUG:root:Inference Time : 0.0030028820037841797
+DEBUG:root:Total time : 0.02501201629638672
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0019991397857666016
+DEBUG:root:Total time : 0.02300262451171875
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.0009980201721191406
+DEBUG:root:Total time : 0.025002241134643555
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.057004451751708984
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.002995729446411133
+DEBUG:root:Total time : 0.02599930763244629
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.98, 'neutral': 0.0}
+DEBUG:root:(surprise 0.98)
+DEBUG:root:Inference Time : 0.002995729446411133
+DEBUG:root:Total time : 0.024001359939575195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.04100465774536133
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.97, 'neutral': 0.0}
+DEBUG:root:(surprise 0.97)
+DEBUG:root:Inference Time : 0.0030028820037841797
+DEBUG:root:Total time : 0.012001752853393555
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.93, 'neutral': 0.0}
+DEBUG:root:(surprise 0.93)
+DEBUG:root:Inference Time : 0.002999544143676758
+DEBUG:root:Total time : 0.011000394821166992
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.01, 'sad': 0.01, 'surprise': 0.84, 'neutral': 0.03}
+DEBUG:root:(surprise 0.84)
+DEBUG:root:Inference Time : 0.0019865036010742188
+DEBUG:root:Total time : 0.02100515365600586
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.0, 'fear': 0.14, 'happy': 0.06, 'sad': 0.07, 'surprise': 0.23, 'neutral': 0.27}
+DEBUG:root:(neutral 0.27)
+DEBUG:root:Inference Time : 0.0019943714141845703
+DEBUG:root:Total time : 0.027003049850463867
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.25, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.07, 'sad': 0.08, 'surprise': 0.05, 'neutral': 0.48}
+DEBUG:root:(neutral 0.48)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.02400827407836914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.06, 'sad': 0.31, 'surprise': 0.01, 'neutral': 0.45}
+DEBUG:root:(neutral 0.45)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.024998903274536133
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.16, 'sad': 0.26, 'surprise': 0.02, 'neutral': 0.48}
+DEBUG:root:(neutral 0.48)
+DEBUG:root:Inference Time : 0.002001047134399414
+DEBUG:root:Total time : 0.025002241134643555
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.2, 'sad': 0.14, 'surprise': 0.01, 'neutral': 0.59}
+DEBUG:root:(neutral 0.59)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.036003828048706055
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.41, 'sad': 0.11, 'surprise': 0.02, 'neutral': 0.42}
+DEBUG:root:(neutral 0.42)
+DEBUG:root:Inference Time : 0.003997802734375
+DEBUG:root:Total time : 0.05600380897521973
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.54, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.34}
+DEBUG:root:(happy 0.54)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.03600955009460449
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.54, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.34}
+DEBUG:root:(happy 0.54)
+DEBUG:root:Inference Time : 0.0020024776458740234
+DEBUG:root:Total time : 0.01199650764465332
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.52, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.41}
+DEBUG:root:(happy 0.52)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.009998083114624023
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.55, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.31}
+DEBUG:root:(happy 0.55)
+DEBUG:root:Inference Time : 0.001999378204345703
+DEBUG:root:Total time : 0.01900196075439453
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.69, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.23}
+DEBUG:root:(happy 0.69)
+DEBUG:root:Inference Time : 0.001998424530029297
+DEBUG:root:Total time : 0.027008533477783203
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.6, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.3}
+DEBUG:root:(happy 0.6)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.025002717971801758
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.75, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.2}
+DEBUG:root:(happy 0.75)
+DEBUG:root:Inference Time : 0.003004312515258789
+DEBUG:root:Total time : 0.022026777267456055
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.73, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.22}
+DEBUG:root:(happy 0.73)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.06000781059265137
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.73, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.22}
+DEBUG:root:(happy 0.73)
+DEBUG:root:Inference Time : 0.004001140594482422
+DEBUG:root:Total time : 0.012001991271972656
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.78, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.13}
+DEBUG:root:(happy 0.78)
+DEBUG:root:Inference Time : 0.002994537353515625
+DEBUG:root:Total time : 0.00999903678894043
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.73, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.22}
+DEBUG:root:(happy 0.73)
+DEBUG:root:Inference Time : 0.002002716064453125
+DEBUG:root:Total time : 0.019002676010131836
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.67, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.27}
+DEBUG:root:(happy 0.67)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.07200098037719727
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.67, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.27}
+DEBUG:root:(happy 0.67)
+DEBUG:root:Inference Time : 0.0029926300048828125
+DEBUG:root:Total time : 0.011999130249023438
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.68, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.25}
+DEBUG:root:(happy 0.68)
+DEBUG:root:Inference Time : 0.002001523971557617
+DEBUG:root:Total time : 0.011000633239746094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.84, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.12}
+DEBUG:root:(happy 0.84)
+DEBUG:root:Inference Time : 0.0019910335540771484
+DEBUG:root:Total time : 0.01800060272216797
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.93, 'sad': 0.01, 'surprise': 0.0, 'neutral': 0.06}
+DEBUG:root:(happy 0.93)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.025008201599121094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.97, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.97)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.027002334594726562
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.99, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.01}
+DEBUG:root:(happy 0.99)
+DEBUG:root:Inference Time : 0.003002166748046875
+DEBUG:root:Total time : 0.026013612747192383
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.024001359939575195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002001047134399414
+DEBUG:root:Total time : 0.02600407600402832
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019969940185546875
+DEBUG:root:Total time : 0.02500128746032715
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019919872283935547
+DEBUG:root:Total time : 0.026001930236816406
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.04100942611694336
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.025002241134643555
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030031204223632812
+DEBUG:root:Total time : 0.024001121520996094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.02600693702697754
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.024005651473999023
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.02500176429748535
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030035972595214844
+DEBUG:root:Total time : 0.025007009506225586
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029871463775634766
+DEBUG:root:Total time : 0.027008533477783203
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003003835678100586
+DEBUG:root:Total time : 0.026999473571777344
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.026005268096923828
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.040001630783081055
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.02499556541442871
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001995086669921875
+DEBUG:root:Total time : 0.025003433227539062
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001994609832763672
+DEBUG:root:Total time : 0.027005672454833984
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030014514923095703
+DEBUG:root:Total time : 0.024995803833007812
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019936561584472656
+DEBUG:root:Total time : 0.02400493621826172
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.026003122329711914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001995563507080078
+DEBUG:root:Total time : 0.02400660514831543
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.028008222579956055
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0020020008087158203
+DEBUG:root:Total time : 0.021005868911743164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.04600405693054199
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030069351196289062
+DEBUG:root:Total time : 0.02500128746032715
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030088424682617188
+DEBUG:root:Total time : 0.02300548553466797
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029990673065185547
+DEBUG:root:Total time : 0.02500462532043457
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001993417739868164
+DEBUG:root:Total time : 0.026997089385986328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019943714141845703
+DEBUG:root:Total time : 0.02300286293029785
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.02500319480895996
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002999544143676758
+DEBUG:root:Total time : 0.02500176429748535
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002999544143676758
+DEBUG:root:Total time : 0.02500176429748535
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.02700066566467285
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029952526092529297
+DEBUG:root:Total time : 0.04000735282897949
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003001689910888672
+DEBUG:root:Total time : 0.02701592445373535
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.024003982543945312
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.98, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.01}
+DEBUG:root:(happy 0.98)
+DEBUG:root:Inference Time : 0.002001047134399414
+DEBUG:root:Total time : 0.025002479553222656
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.93, 'sad': 0.02, 'surprise': 0.0, 'neutral': 0.04}
+DEBUG:root:(happy 0.93)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.02600550651550293
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.88, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.08}
+DEBUG:root:(happy 0.88)
+DEBUG:root:Inference Time : 0.0029952526092529297
+DEBUG:root:Total time : 0.0240023136138916
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.76, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.13}
+DEBUG:root:(happy 0.76)
+DEBUG:root:Inference Time : 0.0029990673065185547
+DEBUG:root:Total time : 0.02500128746032715
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.8, 'sad': 0.03, 'surprise': 0.02, 'neutral': 0.1}
+DEBUG:root:(happy 0.8)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.05600476264953613
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.8, 'sad': 0.03, 'surprise': 0.02, 'neutral': 0.1}
+DEBUG:root:(happy 0.8)
+DEBUG:root:Inference Time : 0.00400090217590332
+DEBUG:root:Total time : 0.014009952545166016
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.6, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.33}
+DEBUG:root:(happy 0.6)
+DEBUG:root:Inference Time : 0.0020046234130859375
+DEBUG:root:Total time : 0.0110015869140625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.59, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.32}
+DEBUG:root:(happy 0.59)
+DEBUG:root:Inference Time : 0.0029904842376708984
+DEBUG:root:Total time : 0.02199840545654297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.44, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.5}
+DEBUG:root:(neutral 0.5)
+DEBUG:root:Inference Time : 0.0029954910278320312
+DEBUG:root:Total time : 0.03999829292297363
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.28, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.67}
+DEBUG:root:(neutral 0.67)
+DEBUG:root:Inference Time : 0.0039975643157958984
+DEBUG:root:Total time : 0.05799674987792969
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.28, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.67}
+DEBUG:root:(neutral 0.67)
+DEBUG:root:Inference Time : 0.002000093460083008
+DEBUG:root:Total time : 0.013005256652832031
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.45, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.5}
+DEBUG:root:(neutral 0.5)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.011003971099853516
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.32, 'sad': 0.03, 'surprise': 0.02, 'neutral': 0.58}
+DEBUG:root:(neutral 0.58)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.021003246307373047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.29, 'sad': 0.03, 'surprise': 0.02, 'neutral': 0.62}
+DEBUG:root:(neutral 0.62)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.022000551223754883
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.29, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.61}
+DEBUG:root:(neutral 0.61)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.024996519088745117
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.13, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.6}
+DEBUG:root:(neutral 0.6)
+DEBUG:root:Inference Time : 0.001995563507080078
+DEBUG:root:Total time : 0.024001359939575195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.34, 'sad': 0.09, 'surprise': 0.02, 'neutral': 0.4}
+DEBUG:root:(neutral 0.4)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.02500009536743164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.1, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.07, 'sad': 0.22, 'surprise': 0.01, 'neutral': 0.5}
+DEBUG:root:(neutral 0.5)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.024003028869628906
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.2, 'disgust': 0.0, 'fear': 0.14, 'happy': 0.02, 'sad': 0.18, 'surprise': 0.01, 'neutral': 0.46}
+DEBUG:root:(neutral 0.46)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.040003061294555664
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.19, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.01, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.59}
+DEBUG:root:(neutral 0.59)
+DEBUG:root:Inference Time : 0.001988649368286133
+DEBUG:root:Total time : 0.028006553649902344
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.26, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.01, 'sad': 0.12, 'surprise': 0.01, 'neutral': 0.51}
+DEBUG:root:(neutral 0.51)
+DEBUG:root:Inference Time : 0.0019969940185546875
+DEBUG:root:Total time : 0.026006460189819336
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.21, 'disgust': 0.0, 'fear': 0.12, 'happy': 0.01, 'sad': 0.21, 'surprise': 0.04, 'neutral': 0.41}
+DEBUG:root:(neutral 0.41)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.02500152587890625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.3, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.01, 'sad': 0.11, 'surprise': 0.01, 'neutral': 0.5}
+DEBUG:root:(neutral 0.5)
+DEBUG:root:Inference Time : 0.001999378204345703
+DEBUG:root:Total time : 0.02500295639038086
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.18, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.01, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.66}
+DEBUG:root:(neutral 0.66)
+DEBUG:root:Inference Time : 0.0029952526092529297
+DEBUG:root:Total time : 0.02400827407836914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.12, 'happy': 0.02, 'sad': 0.09, 'surprise': 0.04, 'neutral': 0.4}
+DEBUG:root:(neutral 0.4)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.024998903274536133
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.43, 'disgust': 0.0, 'fear': 0.16, 'happy': 0.02, 'sad': 0.08, 'surprise': 0.02, 'neutral': 0.29}
+DEBUG:root:(angry 0.43)
+DEBUG:root:Inference Time : 0.001998424530029297
+DEBUG:root:Total time : 0.024000883102416992
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.41, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.02, 'sad': 0.1, 'surprise': 0.02, 'neutral': 0.33}
+DEBUG:root:(angry 0.41)
+DEBUG:root:Inference Time : 0.0029954910278320312
+DEBUG:root:Total time : 0.02399277687072754
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.38, 'disgust': 0.0, 'fear': 0.14, 'happy': 0.01, 'sad': 0.12, 'surprise': 0.02, 'neutral': 0.33}
+DEBUG:root:(angry 0.38)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.02500438690185547
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.01, 'sad': 0.17, 'surprise': 0.02, 'neutral': 0.35}
+DEBUG:root:(neutral 0.35)
+DEBUG:root:Inference Time : 0.0030028820037841797
+DEBUG:root:Total time : 0.04200625419616699
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.43, 'disgust': 0.0, 'fear': 0.12, 'happy': 0.03, 'sad': 0.08, 'surprise': 0.02, 'neutral': 0.32}
+DEBUG:root:(angry 0.43)
+DEBUG:root:Inference Time : 0.001998424530029297
+DEBUG:root:Total time : 0.02599930763244629
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.48, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.01, 'sad': 0.11, 'surprise': 0.01, 'neutral': 0.28}
+DEBUG:root:(angry 0.48)
+DEBUG:root:Inference Time : 0.003001689910888672
+DEBUG:root:Total time : 0.025998353958129883
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.55, 'disgust': 0.0, 'fear': 0.13, 'happy': 0.01, 'sad': 0.07, 'surprise': 0.03, 'neutral': 0.19}
+DEBUG:root:(angry 0.55)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.024002790451049805
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.46, 'disgust': 0.01, 'fear': 0.13, 'happy': 0.01, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.3}
+DEBUG:root:(angry 0.46)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.0240023136138916
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.31, 'disgust': 0.01, 'fear': 0.14, 'happy': 0.0, 'sad': 0.1, 'surprise': 0.01, 'neutral': 0.42}
+DEBUG:root:(neutral 0.42)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.025004148483276367
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.39, 'disgust': 0.01, 'fear': 0.17, 'happy': 0.02, 'sad': 0.11, 'surprise': 0.03, 'neutral': 0.27}
+DEBUG:root:(angry 0.39)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.028006315231323242
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.28, 'disgust': 0.01, 'fear': 0.08, 'happy': 0.01, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.48}
+DEBUG:root:(neutral 0.48)
+DEBUG:root:Inference Time : 0.0019986629486083984
+DEBUG:root:Total time : 0.02300572395324707
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.38, 'disgust': 0.0, 'fear': 0.16, 'happy': 0.02, 'sad': 0.09, 'surprise': 0.04, 'neutral': 0.31}
+DEBUG:root:(angry 0.38)
+DEBUG:root:Inference Time : 0.0020034313201904297
+DEBUG:root:Total time : 0.024005889892578125
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.37, 'disgust': 0.01, 'fear': 0.17, 'happy': 0.02, 'sad': 0.11, 'surprise': 0.03, 'neutral': 0.29}
+DEBUG:root:(angry 0.37)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.023998737335205078
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.44, 'disgust': 0.02, 'fear': 0.12, 'happy': 0.01, 'sad': 0.1, 'surprise': 0.03, 'neutral': 0.28}
+DEBUG:root:(angry 0.44)
+DEBUG:root:Inference Time : 0.0019958019256591797
+DEBUG:root:Total time : 0.04100179672241211
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.44, 'disgust': 0.02, 'fear': 0.12, 'happy': 0.01, 'sad': 0.1, 'surprise': 0.03, 'neutral': 0.28}
+DEBUG:root:(angry 0.44)
+DEBUG:root:Inference Time : 0.002001523971557617
+DEBUG:root:Total time : 0.011987924575805664
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.32, 'disgust': 0.0, 'fear': 0.21, 'happy': 0.03, 'sad': 0.12, 'surprise': 0.02, 'neutral': 0.29}
+DEBUG:root:(angry 0.32)
+DEBUG:root:Inference Time : 0.0029976367950439453
+DEBUG:root:Total time : 0.0390012264251709
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.4, 'disgust': 0.01, 'fear': 0.22, 'happy': 0.03, 'sad': 0.12, 'surprise': 0.02, 'neutral': 0.21}
+DEBUG:root:(angry 0.4)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.026003122329711914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.01, 'fear': 0.24, 'happy': 0.03, 'sad': 0.14, 'surprise': 0.03, 'neutral': 0.21}
+DEBUG:root:(angry 0.34)
+DEBUG:root:Inference Time : 0.0029959678649902344
+DEBUG:root:Total time : 0.028004169464111328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.4, 'disgust': 0.01, 'fear': 0.18, 'happy': 0.02, 'sad': 0.14, 'surprise': 0.02, 'neutral': 0.22}
+DEBUG:root:(angry 0.4)
+DEBUG:root:Inference Time : 0.002994537353515625
+DEBUG:root:Total time : 0.02300286293029785
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.35, 'disgust': 0.01, 'fear': 0.19, 'happy': 0.01, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.29}
+DEBUG:root:(angry 0.35)
+DEBUG:root:Inference Time : 0.0029985904693603516
+DEBUG:root:Total time : 0.025000810623168945
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.46, 'disgust': 0.01, 'fear': 0.23, 'happy': 0.02, 'sad': 0.1, 'surprise': 0.02, 'neutral': 0.17}
+DEBUG:root:(angry 0.46)
+DEBUG:root:Inference Time : 0.001998424530029297
+DEBUG:root:Total time : 0.025005578994750977
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.4, 'disgust': 0.01, 'fear': 0.24, 'happy': 0.01, 'sad': 0.12, 'surprise': 0.02, 'neutral': 0.2}
+DEBUG:root:(angry 0.4)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.027003765106201172
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.43, 'disgust': 0.01, 'fear': 0.17, 'happy': 0.01, 'sad': 0.13, 'surprise': 0.02, 'neutral': 0.22}
+DEBUG:root:(angry 0.43)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.02199864387512207
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.19, 'happy': 0.01, 'sad': 0.14, 'surprise': 0.04, 'neutral': 0.28}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.00399327278137207
+DEBUG:root:Total time : 0.04500293731689453
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.19, 'happy': 0.01, 'sad': 0.14, 'surprise': 0.04, 'neutral': 0.28}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.01500248908996582
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.36, 'disgust': 0.0, 'fear': 0.24, 'happy': 0.01, 'sad': 0.13, 'surprise': 0.03, 'neutral': 0.22}
+DEBUG:root:(angry 0.36)
+DEBUG:root:Inference Time : 0.0029938220977783203
+DEBUG:root:Total time : 0.012007474899291992
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.32, 'disgust': 0.0, 'fear': 0.27, 'happy': 0.01, 'sad': 0.14, 'surprise': 0.03, 'neutral': 0.23}
+DEBUG:root:(angry 0.32)
+DEBUG:root:Inference Time : 0.0030007362365722656
+DEBUG:root:Total time : 0.017008304595947266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.41, 'disgust': 0.01, 'fear': 0.22, 'happy': 0.02, 'sad': 0.14, 'surprise': 0.03, 'neutral': 0.18}
+DEBUG:root:(angry 0.41)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.059003353118896484
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.36, 'disgust': 0.01, 'fear': 0.22, 'happy': 0.01, 'sad': 0.12, 'surprise': 0.03, 'neutral': 0.25}
+DEBUG:root:(angry 0.36)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.026000022888183594
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.44, 'disgust': 0.01, 'fear': 0.21, 'happy': 0.01, 'sad': 0.12, 'surprise': 0.02, 'neutral': 0.19}
+DEBUG:root:(angry 0.44)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.02400064468383789
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.48, 'disgust': 0.01, 'fear': 0.21, 'happy': 0.02, 'sad': 0.13, 'surprise': 0.02, 'neutral': 0.14}
+DEBUG:root:(angry 0.48)
+DEBUG:root:Inference Time : 0.0029964447021484375
+DEBUG:root:Total time : 0.023012161254882812
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.01, 'fear': 0.2, 'happy': 0.04, 'sad': 0.14, 'surprise': 0.02, 'neutral': 0.25}
+DEBUG:root:(angry 0.34)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.024004697799682617
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.39, 'disgust': 0.01, 'fear': 0.25, 'happy': 0.01, 'sad': 0.11, 'surprise': 0.03, 'neutral': 0.21}
+DEBUG:root:(angry 0.39)
+DEBUG:root:Inference Time : 0.003002643585205078
+DEBUG:root:Total time : 0.028004169464111328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.31, 'disgust': 0.01, 'fear': 0.32, 'happy': 0.0, 'sad': 0.17, 'surprise': 0.02, 'neutral': 0.18}
+DEBUG:root:(fear 0.32)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.021993398666381836
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.39, 'disgust': 0.01, 'fear': 0.23, 'happy': 0.01, 'sad': 0.14, 'surprise': 0.01, 'neutral': 0.21}
+DEBUG:root:(angry 0.39)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.04801130294799805
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.39, 'disgust': 0.01, 'fear': 0.23, 'happy': 0.01, 'sad': 0.14, 'surprise': 0.01, 'neutral': 0.21}
+DEBUG:root:(angry 0.39)
+DEBUG:root:Inference Time : 0.003001689910888672
+DEBUG:root:Total time : 0.012000560760498047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.51, 'disgust': 0.02, 'fear': 0.22, 'happy': 0.0, 'sad': 0.11, 'surprise': 0.02, 'neutral': 0.11}
+DEBUG:root:(angry 0.51)
+DEBUG:root:Inference Time : 0.00199127197265625
+DEBUG:root:Total time : 0.011003255844116211
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.01, 'fear': 0.28, 'happy': 0.01, 'sad': 0.14, 'surprise': 0.02, 'neutral': 0.2}
+DEBUG:root:(angry 0.34)
+DEBUG:root:Inference Time : 0.0020034313201904297
+DEBUG:root:Total time : 0.014006614685058594
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.01, 'fear': 0.25, 'happy': 0.04, 'sad': 0.18, 'surprise': 0.06, 'neutral': 0.22}
+DEBUG:root:(fear 0.25)
+DEBUG:root:Inference Time : 0.004002571105957031
+DEBUG:root:Total time : 0.025004148483276367
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.26, 'disgust': 0.01, 'fear': 0.29, 'happy': 0.02, 'sad': 0.19, 'surprise': 0.04, 'neutral': 0.2}
+DEBUG:root:(fear 0.29)
+DEBUG:root:Inference Time : 0.0029954910278320312
+DEBUG:root:Total time : 0.05500292778015137
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.29, 'disgust': 0.01, 'fear': 0.35, 'happy': 0.03, 'sad': 0.14, 'surprise': 0.02, 'neutral': 0.15}
+DEBUG:root:(fear 0.35)
+DEBUG:root:Inference Time : 0.0019927024841308594
+DEBUG:root:Total time : 0.024008512496948242
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.01, 'fear': 0.27, 'happy': 0.04, 'sad': 0.2, 'surprise': 0.05, 'neutral': 0.21}
+DEBUG:root:(fear 0.27)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.061004638671875
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.01, 'fear': 0.27, 'happy': 0.04, 'sad': 0.2, 'surprise': 0.05, 'neutral': 0.21}
+DEBUG:root:(fear 0.27)
+DEBUG:root:Inference Time : 0.002995729446411133
+DEBUG:root:Total time : 0.011012554168701172
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.27, 'disgust': 0.01, 'fear': 0.22, 'happy': 0.02, 'sad': 0.21, 'surprise': 0.04, 'neutral': 0.24}
+DEBUG:root:(angry 0.27)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.010006904602050781
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.28, 'disgust': 0.01, 'fear': 0.21, 'happy': 0.03, 'sad': 0.19, 'surprise': 0.05, 'neutral': 0.23}
+DEBUG:root:(angry 0.28)
+DEBUG:root:Inference Time : 0.0030105113983154297
+DEBUG:root:Total time : 0.03601431846618652
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.28, 'disgust': 0.01, 'fear': 0.21, 'happy': 0.03, 'sad': 0.19, 'surprise': 0.05, 'neutral': 0.23}
+DEBUG:root:(angry 0.28)
+DEBUG:root:Inference Time : 0.003999233245849609
+DEBUG:root:Total time : 0.01100778579711914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.01, 'fear': 0.25, 'happy': 0.01, 'sad': 0.23, 'surprise': 0.03, 'neutral': 0.22}
+DEBUG:root:(fear 0.25)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.010004043579101562
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.25, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.02, 'sad': 0.22, 'surprise': 0.03, 'neutral': 0.27}
+DEBUG:root:(neutral 0.27)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.0160067081451416
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.26, 'disgust': 0.01, 'fear': 0.24, 'happy': 0.01, 'sad': 0.24, 'surprise': 0.04, 'neutral': 0.19}
+DEBUG:root:(angry 0.26)
+DEBUG:root:Inference Time : 0.0019969940185546875
+DEBUG:root:Total time : 0.025998830795288086
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.01, 'fear': 0.24, 'happy': 0.01, 'sad': 0.25, 'surprise': 0.03, 'neutral': 0.23}
+DEBUG:root:(sad 0.25)
+DEBUG:root:Inference Time : 0.0019965171813964844
+DEBUG:root:Total time : 0.024003267288208008
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.29, 'disgust': 0.01, 'fear': 0.25, 'happy': 0.01, 'sad': 0.2, 'surprise': 0.04, 'neutral': 0.21}
+DEBUG:root:(angry 0.29)
+DEBUG:root:Inference Time : 0.0019960403442382812
+DEBUG:root:Total time : 0.027998924255371094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.22, 'disgust': 0.0, 'fear': 0.35, 'happy': 0.01, 'sad': 0.18, 'surprise': 0.01, 'neutral': 0.23}
+DEBUG:root:(fear 0.35)
+DEBUG:root:Inference Time : 0.002995014190673828
+DEBUG:root:Total time : 0.059003353118896484
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.29, 'disgust': 0.0, 'fear': 0.35, 'happy': 0.01, 'sad': 0.17, 'surprise': 0.03, 'neutral': 0.14}
+DEBUG:root:(fear 0.35)
+DEBUG:root:Inference Time : 0.0019960403442382812
+DEBUG:root:Total time : 0.02200150489807129
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.25, 'disgust': 0.01, 'fear': 0.25, 'happy': 0.01, 'sad': 0.27, 'surprise': 0.02, 'neutral': 0.19}
+DEBUG:root:(sad 0.27)
+DEBUG:root:Inference Time : 0.0019936561584472656
+DEBUG:root:Total time : 0.026004552841186523
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.01, 'fear': 0.3, 'happy': 0.01, 'sad': 0.22, 'surprise': 0.03, 'neutral': 0.2}
+DEBUG:root:(fear 0.3)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.03900408744812012
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.01, 'fear': 0.3, 'happy': 0.01, 'sad': 0.22, 'surprise': 0.03, 'neutral': 0.2}
+DEBUG:root:(fear 0.3)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.009002447128295898
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.25, 'disgust': 0.0, 'fear': 0.4, 'happy': 0.01, 'sad': 0.17, 'surprise': 0.02, 'neutral': 0.15}
+DEBUG:root:(fear 0.4)
+DEBUG:root:Inference Time : 0.003007173538208008
+DEBUG:root:Total time : 0.014010429382324219
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.22, 'disgust': 0.01, 'fear': 0.33, 'happy': 0.01, 'sad': 0.26, 'surprise': 0.02, 'neutral': 0.16}
+DEBUG:root:(fear 0.33)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.024004697799682617
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.01, 'fear': 0.42, 'happy': 0.0, 'sad': 0.18, 'surprise': 0.02, 'neutral': 0.15}
+DEBUG:root:(fear 0.42)
+DEBUG:root:Inference Time : 0.002995729446411133
+DEBUG:root:Total time : 0.025998592376708984
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.01, 'fear': 0.35, 'happy': 0.01, 'sad': 0.21, 'surprise': 0.04, 'neutral': 0.15}
+DEBUG:root:(fear 0.35)
+DEBUG:root:Inference Time : 0.0019948482513427734
+DEBUG:root:Total time : 0.023003339767456055
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.0, 'fear': 0.28, 'happy': 0.02, 'sad': 0.22, 'surprise': 0.03, 'neutral': 0.2}
+DEBUG:root:(fear 0.28)
+DEBUG:root:Inference Time : 0.0019943714141845703
+DEBUG:root:Total time : 0.024001359939575195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.27, 'disgust': 0.01, 'fear': 0.3, 'happy': 0.01, 'sad': 0.23, 'surprise': 0.02, 'neutral': 0.16}
+DEBUG:root:(fear 0.3)
+DEBUG:root:Inference Time : 0.0029964447021484375
+DEBUG:root:Total time : 0.02700066566467285
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.0, 'fear': 0.36, 'happy': 0.01, 'sad': 0.23, 'surprise': 0.02, 'neutral': 0.13}
+DEBUG:root:(fear 0.36)
+DEBUG:root:Inference Time : 0.003002166748046875
+DEBUG:root:Total time : 0.024003028869628906
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.29, 'happy': 0.01, 'sad': 0.19, 'surprise': 0.02, 'neutral': 0.15}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.05500388145446777
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.0, 'fear': 0.33, 'happy': 0.01, 'sad': 0.24, 'surprise': 0.02, 'neutral': 0.15}
+DEBUG:root:(fear 0.33)
+DEBUG:root:Inference Time : 0.0019948482513427734
+DEBUG:root:Total time : 0.04300689697265625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.24, 'disgust': 0.0, 'fear': 0.33, 'happy': 0.01, 'sad': 0.24, 'surprise': 0.02, 'neutral': 0.15}
+DEBUG:root:(fear 0.33)
+DEBUG:root:Inference Time : 0.0029954910278320312
+DEBUG:root:Total time : 0.011001110076904297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.27, 'disgust': 0.01, 'fear': 0.33, 'happy': 0.01, 'sad': 0.2, 'surprise': 0.03, 'neutral': 0.16}
+DEBUG:root:(fear 0.33)
+DEBUG:root:Inference Time : 0.003000020980834961
+DEBUG:root:Total time : 0.011006593704223633
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.36, 'disgust': 0.0, 'fear': 0.27, 'happy': 0.01, 'sad': 0.19, 'surprise': 0.03, 'neutral': 0.14}
+DEBUG:root:(angry 0.36)
+DEBUG:root:Inference Time : 0.0019989013671875
+DEBUG:root:Total time : 0.01900506019592285
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.37, 'disgust': 0.0, 'fear': 0.26, 'happy': 0.01, 'sad': 0.19, 'surprise': 0.03, 'neutral': 0.14}
+DEBUG:root:(angry 0.37)
+DEBUG:root:Inference Time : 0.0019998550415039062
+DEBUG:root:Total time : 0.023002147674560547
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.31, 'disgust': 0.0, 'fear': 0.29, 'happy': 0.01, 'sad': 0.2, 'surprise': 0.03, 'neutral': 0.16}
+DEBUG:root:(angry 0.31)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.02699899673461914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.31, 'disgust': 0.0, 'fear': 0.28, 'happy': 0.02, 'sad': 0.22, 'surprise': 0.02, 'neutral': 0.14}
+DEBUG:root:(angry 0.31)
+DEBUG:root:Inference Time : 0.002995014190673828
+DEBUG:root:Total time : 0.026996374130249023
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.25, 'disgust': 0.0, 'fear': 0.25, 'happy': 0.01, 'sad': 0.3, 'surprise': 0.02, 'neutral': 0.17}
+DEBUG:root:(sad 0.3)
+DEBUG:root:Inference Time : 0.001995563507080078
+DEBUG:root:Total time : 0.02200150489807129
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.36, 'disgust': 0.0, 'fear': 0.2, 'happy': 0.02, 'sad': 0.2, 'surprise': 0.01, 'neutral': 0.2}
+DEBUG:root:(angry 0.36)
+DEBUG:root:Inference Time : 0.0029964447021484375
+DEBUG:root:Total time : 0.026996135711669922
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.0, 'fear': 0.21, 'happy': 0.02, 'sad': 0.23, 'surprise': 0.02, 'neutral': 0.18}
+DEBUG:root:(angry 0.34)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.026000499725341797
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.25, 'disgust': 0.0, 'fear': 0.31, 'happy': 0.01, 'sad': 0.25, 'surprise': 0.02, 'neutral': 0.16}
+DEBUG:root:(fear 0.31)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.022997617721557617
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.37, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.02, 'sad': 0.19, 'surprise': 0.02, 'neutral': 0.19}
+DEBUG:root:(angry 0.37)
+DEBUG:root:Inference Time : 0.0019958019256591797
+DEBUG:root:Total time : 0.04100298881530762
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.35, 'disgust': 0.01, 'fear': 0.24, 'happy': 0.01, 'sad': 0.2, 'surprise': 0.03, 'neutral': 0.16}
+DEBUG:root:(angry 0.35)
+DEBUG:root:Inference Time : 0.0029926300048828125
+DEBUG:root:Total time : 0.027004003524780273
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.28, 'disgust': 0.01, 'fear': 0.19, 'happy': 0.02, 'sad': 0.24, 'surprise': 0.01, 'neutral': 0.26}
+DEBUG:root:(angry 0.28)
+DEBUG:root:Inference Time : 0.0029795169830322266
+DEBUG:root:Total time : 0.02600240707397461
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.0, 'fear': 0.23, 'happy': 0.02, 'sad': 0.21, 'surprise': 0.02, 'neutral': 0.17}
+DEBUG:root:(angry 0.34)
+DEBUG:root:Inference Time : 0.003998756408691406
+DEBUG:root:Total time : 0.022003889083862305
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.27, 'disgust': 0.0, 'fear': 0.27, 'happy': 0.01, 'sad': 0.23, 'surprise': 0.02, 'neutral': 0.19}
+DEBUG:root:(angry 0.27)
+DEBUG:root:Inference Time : 0.0019991397857666016
+DEBUG:root:Total time : 0.024007320404052734
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.02, 'sad': 0.23, 'surprise': 0.01, 'neutral': 0.18}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.003003835678100586
+DEBUG:root:Total time : 0.02600574493408203
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.22, 'disgust': 0.0, 'fear': 0.31, 'happy': 0.01, 'sad': 0.25, 'surprise': 0.01, 'neutral': 0.21}
+DEBUG:root:(fear 0.31)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.024004220962524414
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.3, 'disgust': 0.0, 'fear': 0.27, 'happy': 0.01, 'sad': 0.2, 'surprise': 0.03, 'neutral': 0.19}
+DEBUG:root:(angry 0.3)
+DEBUG:root:Inference Time : 0.0020017623901367188
+DEBUG:root:Total time : 0.025000572204589844
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.38, 'disgust': 0.01, 'fear': 0.19, 'happy': 0.02, 'sad': 0.19, 'surprise': 0.02, 'neutral': 0.2}
+DEBUG:root:(angry 0.38)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.02899932861328125
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.19, 'disgust': 0.01, 'fear': 0.14, 'happy': 0.02, 'sad': 0.34, 'surprise': 0.01, 'neutral': 0.29}
+DEBUG:root:(sad 0.34)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.02300286293029785
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.01, 'fear': 0.11, 'happy': 0.01, 'sad': 0.33, 'surprise': 0.01, 'neutral': 0.21}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.042999982833862305
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.44, 'disgust': 0.01, 'fear': 0.12, 'happy': 0.01, 'sad': 0.25, 'surprise': 0.01, 'neutral': 0.17}
+DEBUG:root:(angry 0.44)
+DEBUG:root:Inference Time : 0.003000020980834961
+DEBUG:root:Total time : 0.024005413055419922
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.37, 'disgust': 0.01, 'fear': 0.15, 'happy': 0.02, 'sad': 0.2, 'surprise': 0.0, 'neutral': 0.25}
+DEBUG:root:(angry 0.37)
+DEBUG:root:Inference Time : 0.002999544143676758
+DEBUG:root:Total time : 0.027002334594726562
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.38, 'disgust': 0.01, 'fear': 0.13, 'happy': 0.02, 'sad': 0.24, 'surprise': 0.0, 'neutral': 0.21}
+DEBUG:root:(angry 0.38)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.023005008697509766
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.44, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.04, 'sad': 0.19, 'surprise': 0.0, 'neutral': 0.25}
+DEBUG:root:(angry 0.44)
+DEBUG:root:Inference Time : 0.0020084381103515625
+DEBUG:root:Total time : 0.024018049240112305
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.48, 'disgust': 0.01, 'fear': 0.09, 'happy': 0.01, 'sad': 0.2, 'surprise': 0.01, 'neutral': 0.19}
+DEBUG:root:(angry 0.48)
+DEBUG:root:Inference Time : 0.003000020980834961
+DEBUG:root:Total time : 0.02300119400024414
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.49, 'disgust': 0.01, 'fear': 0.11, 'happy': 0.02, 'sad': 0.17, 'surprise': 0.0, 'neutral': 0.2}
+DEBUG:root:(angry 0.49)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.026005268096923828
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.01, 'sad': 0.17, 'surprise': 0.01, 'neutral': 0.36}
+DEBUG:root:(neutral 0.36)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.02501082420349121
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.26, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.02, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.5}
+DEBUG:root:(neutral 0.5)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.02500319480895996
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.42, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.04, 'sad': 0.11, 'surprise': 0.02, 'neutral': 0.37}
+DEBUG:root:(angry 0.42)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.026006460189819336
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.32, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.03, 'sad': 0.12, 'surprise': 0.02, 'neutral': 0.45}
+DEBUG:root:(neutral 0.45)
+DEBUG:root:Inference Time : 0.0029969215393066406
+DEBUG:root:Total time : 0.024001121520996094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.02, 'sad': 0.1, 'surprise': 0.01, 'neutral': 0.49}
+DEBUG:root:(neutral 0.49)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.04300546646118164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.25, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.02, 'sad': 0.1, 'surprise': 0.02, 'neutral': 0.56}
+DEBUG:root:(neutral 0.56)
+DEBUG:root:Inference Time : 0.0029976367950439453
+DEBUG:root:Total time : 0.024003028869628906
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.02, 'sad': 0.09, 'surprise': 0.05, 'neutral': 0.63}
+DEBUG:root:(neutral 0.63)
+DEBUG:root:Inference Time : 0.001981496810913086
+DEBUG:root:Total time : 0.024006366729736328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.11, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.02, 'sad': 0.09, 'surprise': 0.03, 'neutral': 0.67}
+DEBUG:root:(neutral 0.67)
+DEBUG:root:Inference Time : 0.002990245819091797
+DEBUG:root:Total time : 0.02800464630126953
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.18, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.02, 'sad': 0.08, 'surprise': 0.05, 'neutral': 0.58}
+DEBUG:root:(neutral 0.58)
+DEBUG:root:Inference Time : 0.0029931068420410156
+DEBUG:root:Total time : 0.025009632110595703
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.02, 'sad': 0.08, 'surprise': 0.02, 'neutral': 0.77}
+DEBUG:root:(neutral 0.77)
+DEBUG:root:Inference Time : 0.0030031204223632812
+DEBUG:root:Total time : 0.023011445999145508
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.16, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.05, 'sad': 0.09, 'surprise': 0.03, 'neutral': 0.63}
+DEBUG:root:(neutral 0.63)
+DEBUG:root:Inference Time : 0.003000020980834961
+DEBUG:root:Total time : 0.027012109756469727
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.2, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.05, 'sad': 0.1, 'surprise': 0.02, 'neutral': 0.56}
+DEBUG:root:(neutral 0.56)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.03399991989135742
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.13, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.11, 'sad': 0.06, 'surprise': 0.02, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.0019936561584472656
+DEBUG:root:Total time : 0.022002696990966797
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.16, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.15, 'sad': 0.08, 'surprise': 0.02, 'neutral': 0.52}
+DEBUG:root:(neutral 0.52)
+DEBUG:root:Inference Time : 0.0029959678649902344
+DEBUG:root:Total time : 0.02200484275817871
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.16, 'sad': 0.07, 'surprise': 0.02, 'neutral': 0.58}
+DEBUG:root:(neutral 0.58)
+DEBUG:root:Inference Time : 0.002989530563354492
+DEBUG:root:Total time : 0.042000532150268555
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.16, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.25, 'sad': 0.08, 'surprise': 0.01, 'neutral': 0.41}
+DEBUG:root:(neutral 0.41)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.026003122329711914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.15, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.23, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.5}
+DEBUG:root:(neutral 0.5)
+DEBUG:root:Inference Time : 0.0019927024841308594
+DEBUG:root:Total time : 0.02500152587890625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.11, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.49, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.28}
+DEBUG:root:(happy 0.49)
+DEBUG:root:Inference Time : 0.0019953250885009766
+DEBUG:root:Total time : 0.025998353958129883
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.41, 'sad': 0.09, 'surprise': 0.0, 'neutral': 0.33}
+DEBUG:root:(happy 0.41)
+DEBUG:root:Inference Time : 0.002990245819091797
+DEBUG:root:Total time : 0.024998903274536133
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.48, 'sad': 0.08, 'surprise': 0.0, 'neutral': 0.33}
+DEBUG:root:(happy 0.48)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.02300882339477539
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.44, 'sad': 0.12, 'surprise': 0.01, 'neutral': 0.34}
+DEBUG:root:(happy 0.44)
+DEBUG:root:Inference Time : 0.0019998550415039062
+DEBUG:root:Total time : 0.027006864547729492
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.1, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.32, 'sad': 0.2, 'surprise': 0.01, 'neutral': 0.33}
+DEBUG:root:(neutral 0.33)
+DEBUG:root:Inference Time : 0.0030035972595214844
+DEBUG:root:Total time : 0.025011301040649414
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.36, 'sad': 0.27, 'surprise': 0.03, 'neutral': 0.2}
+DEBUG:root:(happy 0.36)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.02300238609313965
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.13, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.31, 'sad': 0.21, 'surprise': 0.01, 'neutral': 0.26}
+DEBUG:root:(happy 0.31)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.029004812240600586
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.09, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.43, 'sad': 0.13, 'surprise': 0.02, 'neutral': 0.26}
+DEBUG:root:(happy 0.43)
+DEBUG:root:Inference Time : 0.0019965171813964844
+DEBUG:root:Total time : 0.04099678993225098
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.48, 'sad': 0.13, 'surprise': 0.02, 'neutral': 0.21}
+DEBUG:root:(happy 0.48)
+DEBUG:root:Inference Time : 0.0019986629486083984
+DEBUG:root:Total time : 0.025001049041748047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.33, 'sad': 0.21, 'surprise': 0.01, 'neutral': 0.31}
+DEBUG:root:(happy 0.33)
+DEBUG:root:Inference Time : 0.0019927024841308594
+DEBUG:root:Total time : 0.028003692626953125
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.5, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.25}
+DEBUG:root:(happy 0.5)
+DEBUG:root:Inference Time : 0.0019960403442382812
+DEBUG:root:Total time : 0.02499699592590332
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.56, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.2}
+DEBUG:root:(happy 0.56)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.02600574493408203
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.43, 'sad': 0.17, 'surprise': 0.01, 'neutral': 0.26}
+DEBUG:root:(happy 0.43)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.0250091552734375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.09, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.31, 'sad': 0.32, 'surprise': 0.01, 'neutral': 0.18}
+DEBUG:root:(sad 0.32)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.0250089168548584
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.39, 'sad': 0.23, 'surprise': 0.01, 'neutral': 0.2}
+DEBUG:root:(happy 0.39)
+DEBUG:root:Inference Time : 0.0029990673065185547
+DEBUG:root:Total time : 0.028005361557006836
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.37, 'sad': 0.25, 'surprise': 0.0, 'neutral': 0.27}
+DEBUG:root:(happy 0.37)
+DEBUG:root:Inference Time : 0.001992940902709961
+DEBUG:root:Total time : 0.023013591766357422
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.44, 'sad': 0.19, 'surprise': 0.01, 'neutral': 0.25}
+DEBUG:root:(happy 0.44)
+DEBUG:root:Inference Time : 0.0020008087158203125
+DEBUG:root:Total time : 0.023010969161987305
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.54, 'sad': 0.14, 'surprise': 0.01, 'neutral': 0.22}
+DEBUG:root:(happy 0.54)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.046999216079711914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.4, 'sad': 0.23, 'surprise': 0.01, 'neutral': 0.23}
+DEBUG:root:(happy 0.4)
+DEBUG:root:Inference Time : 0.0020029544830322266
+DEBUG:root:Total time : 0.02399921417236328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.47, 'sad': 0.17, 'surprise': 0.02, 'neutral': 0.2}
+DEBUG:root:(happy 0.47)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.026003360748291016
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.66, 'sad': 0.12, 'surprise': 0.0, 'neutral': 0.16}
+DEBUG:root:(happy 0.66)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.024004459381103516
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.62, 'sad': 0.15, 'surprise': 0.01, 'neutral': 0.13}
+DEBUG:root:(happy 0.62)
+DEBUG:root:Inference Time : 0.0030007362365722656
+DEBUG:root:Total time : 0.023999452590942383
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.69, 'sad': 0.1, 'surprise': 0.01, 'neutral': 0.09}
+DEBUG:root:(happy 0.69)
+DEBUG:root:Inference Time : 0.0019969940185546875
+DEBUG:root:Total time : 0.02500748634338379
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.56, 'sad': 0.14, 'surprise': 0.01, 'neutral': 0.2}
+DEBUG:root:(happy 0.56)
+DEBUG:root:Inference Time : 0.0030014514923095703
+DEBUG:root:Total time : 0.024001359939575195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.41, 'sad': 0.16, 'surprise': 0.02, 'neutral': 0.3}
+DEBUG:root:(happy 0.41)
+DEBUG:root:Inference Time : 0.001998424530029297
+DEBUG:root:Total time : 0.024010896682739258
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.27, 'sad': 0.15, 'surprise': 0.02, 'neutral': 0.44}
+DEBUG:root:(neutral 0.44)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.02900218963623047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.28, 'sad': 0.12, 'surprise': 0.22, 'neutral': 0.27}
+DEBUG:root:(happy 0.28)
+DEBUG:root:Inference Time : 0.003000020980834961
+DEBUG:root:Total time : 0.02500605583190918
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.7, 'sad': 0.1, 'surprise': 0.01, 'neutral': 0.13}
+DEBUG:root:(happy 0.7)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.0400083065032959
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.49, 'sad': 0.17, 'surprise': 0.01, 'neutral': 0.26}
+DEBUG:root:(happy 0.49)
+DEBUG:root:Inference Time : 0.0029985904693603516
+DEBUG:root:Total time : 0.024009227752685547
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.54, 'sad': 0.22, 'surprise': 0.01, 'neutral': 0.14}
+DEBUG:root:(happy 0.54)
+DEBUG:root:Inference Time : 0.001998424530029297
+DEBUG:root:Total time : 0.025004148483276367
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.56, 'sad': 0.12, 'surprise': 0.0, 'neutral': 0.2}
+DEBUG:root:(happy 0.56)
+DEBUG:root:Inference Time : 0.0019960403442382812
+DEBUG:root:Total time : 0.02700328826904297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.73, 'sad': 0.06, 'surprise': 0.0, 'neutral': 0.08}
+DEBUG:root:(happy 0.73)
+DEBUG:root:Inference Time : 0.0019960403442382812
+DEBUG:root:Total time : 0.025999784469604492
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.1, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.42, 'sad': 0.14, 'surprise': 0.0, 'neutral': 0.26}
+DEBUG:root:(happy 0.42)
+DEBUG:root:Inference Time : 0.0029990673065185547
+DEBUG:root:Total time : 0.026000261306762695
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.1, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.5, 'sad': 0.13, 'surprise': 0.0, 'neutral': 0.16}
+DEBUG:root:(happy 0.5)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.024997711181640625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.67, 'sad': 0.1, 'surprise': 0.0, 'neutral': 0.09}
+DEBUG:root:(happy 0.67)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.023995637893676758
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.61, 'sad': 0.09, 'surprise': 0.0, 'neutral': 0.13}
+DEBUG:root:(happy 0.61)
+DEBUG:root:Inference Time : 0.0030035972595214844
+DEBUG:root:Total time : 0.027991771697998047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.79, 'sad': 0.04, 'surprise': 0.0, 'neutral': 0.06}
+DEBUG:root:(happy 0.79)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.022996187210083008
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.14, 'disgust': 0.0, 'fear': 0.14, 'happy': 0.58, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.07}
+DEBUG:root:(happy 0.58)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.02500462532043457
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.27, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.2, 'sad': 0.22, 'surprise': 0.0, 'neutral': 0.09}
+DEBUG:root:(angry 0.27)
+DEBUG:root:Inference Time : 0.003000020980834961
+DEBUG:root:Total time : 0.04199934005737305
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.3, 'disgust': 0.0, 'fear': 0.26, 'happy': 0.3, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.05}
+DEBUG:root:(angry 0.3)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.021006345748901367
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.29, 'disgust': 0.0, 'fear': 0.4, 'happy': 0.07, 'sad': 0.2, 'surprise': 0.01, 'neutral': 0.04}
+DEBUG:root:(fear 0.4)
+DEBUG:root:Inference Time : 0.0030012130737304688
+DEBUG:root:Total time : 0.028002500534057617
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.4, 'disgust': 0.0, 'fear': 0.26, 'happy': 0.14, 'sad': 0.14, 'surprise': 0.01, 'neutral': 0.05}
+DEBUG:root:(angry 0.4)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.024002790451049805
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.36, 'disgust': 0.0, 'fear': 0.32, 'happy': 0.18, 'sad': 0.09, 'surprise': 0.01, 'neutral': 0.05}
+DEBUG:root:(angry 0.36)
+DEBUG:root:Inference Time : 0.0020024776458740234
+DEBUG:root:Total time : 0.025008201599121094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.38, 'disgust': 0.0, 'fear': 0.27, 'happy': 0.12, 'sad': 0.15, 'surprise': 0.01, 'neutral': 0.07}
+DEBUG:root:(angry 0.38)
+DEBUG:root:Inference Time : 0.0020029544830322266
+DEBUG:root:Total time : 0.024005413055419922
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.29, 'disgust': 0.0, 'fear': 0.4, 'happy': 0.1, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.07}
+DEBUG:root:(fear 0.4)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.02500128746032715
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.22, 'disgust': 0.0, 'fear': 0.35, 'happy': 0.18, 'sad': 0.18, 'surprise': 0.02, 'neutral': 0.06}
+DEBUG:root:(fear 0.35)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.024999380111694336
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.47, 'disgust': 0.0, 'fear': 0.25, 'happy': 0.08, 'sad': 0.15, 'surprise': 0.01, 'neutral': 0.05}
+DEBUG:root:(angry 0.47)
+DEBUG:root:Inference Time : 0.0030014514923095703
+DEBUG:root:Total time : 0.026003599166870117
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.3, 'disgust': 0.0, 'fear': 0.32, 'happy': 0.21, 'sad': 0.09, 'surprise': 0.02, 'neutral': 0.06}
+DEBUG:root:(fear 0.32)
+DEBUG:root:Inference Time : 0.0029990673065185547
+DEBUG:root:Total time : 0.07500076293945312
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.3, 'disgust': 0.0, 'fear': 0.32, 'happy': 0.21, 'sad': 0.09, 'surprise': 0.02, 'neutral': 0.06}
+DEBUG:root:(fear 0.32)
+DEBUG:root:Inference Time : 0.0030007362365722656
+DEBUG:root:Total time : 0.012004852294921875
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.32, 'disgust': 0.0, 'fear': 0.16, 'happy': 0.42, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.05}
+DEBUG:root:(happy 0.42)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.03600144386291504
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.0, 'fear': 0.2, 'happy': 0.47, 'sad': 0.05, 'surprise': 0.02, 'neutral': 0.03}
+DEBUG:root:(happy 0.47)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.025002241134643555
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.35, 'disgust': 0.0, 'fear': 0.19, 'happy': 0.38, 'sad': 0.04, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.38)
+DEBUG:root:Inference Time : 0.003002166748046875
+DEBUG:root:Total time : 0.02400946617126465
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.41, 'disgust': 0.0, 'fear': 0.15, 'happy': 0.35, 'sad': 0.06, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(angry 0.41)
+DEBUG:root:Inference Time : 0.0030031204223632812
+DEBUG:root:Total time : 0.024007320404052734
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.46, 'sad': 0.03, 'surprise': 0.0, 'neutral': 0.05}
+DEBUG:root:(happy 0.46)
+DEBUG:root:Inference Time : 0.001995563507080078
+DEBUG:root:Total time : 0.02400684356689453
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.4, 'disgust': 0.0, 'fear': 0.14, 'happy': 0.4, 'sad': 0.03, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(angry 0.4)
+DEBUG:root:Inference Time : 0.0019986629486083984
+DEBUG:root:Total time : 0.023998737335205078
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.0, 'fear': 0.2, 'happy': 0.39, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.03}
+DEBUG:root:(happy 0.39)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.02599620819091797
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.35, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.33, 'sad': 0.05, 'surprise': 0.0, 'neutral': 0.04}
+DEBUG:root:(angry 0.35)
+DEBUG:root:Inference Time : 0.0029964447021484375
+DEBUG:root:Total time : 0.027004003524780273
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.46, 'disgust': 0.0, 'fear': 0.26, 'happy': 0.19, 'sad': 0.06, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(angry 0.46)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.0410001277923584
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.46, 'disgust': 0.0, 'fear': 0.26, 'happy': 0.19, 'sad': 0.06, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(angry 0.46)
+DEBUG:root:Inference Time : 0.0020046234130859375
+DEBUG:root:Total time : 0.012005805969238281
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.31, 'disgust': 0.0, 'fear': 0.3, 'happy': 0.23, 'sad': 0.08, 'surprise': 0.01, 'neutral': 0.06}
+DEBUG:root:(angry 0.31)
+DEBUG:root:Inference Time : 0.001999378204345703
+DEBUG:root:Total time : 0.011001110076904297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.32, 'disgust': 0.0, 'fear': 0.27, 'happy': 0.33, 'sad': 0.04, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.33)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.019002676010131836
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.36, 'disgust': 0.0, 'fear': 0.24, 'happy': 0.27, 'sad': 0.08, 'surprise': 0.01, 'neutral': 0.04}
+DEBUG:root:(angry 0.36)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.056000709533691406
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.42, 'disgust': 0.0, 'fear': 0.33, 'happy': 0.18, 'sad': 0.04, 'surprise': 0.0, 'neutral': 0.02}
+DEBUG:root:(angry 0.42)
+DEBUG:root:Inference Time : 0.001993417739868164
+DEBUG:root:Total time : 0.02500629425048828
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.42, 'disgust': 0.0, 'fear': 0.32, 'happy': 0.16, 'sad': 0.07, 'surprise': 0.0, 'neutral': 0.04}
+DEBUG:root:(angry 0.42)
+DEBUG:root:Inference Time : 0.003002166748046875
+DEBUG:root:Total time : 0.027004718780517578
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.54, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.12, 'sad': 0.09, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(angry 0.54)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.024005413055419922
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.51, 'disgust': 0.0, 'fear': 0.27, 'happy': 0.06, 'sad': 0.13, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(angry 0.51)
+DEBUG:root:Inference Time : 0.0020020008087158203
+DEBUG:root:Total time : 0.024007558822631836
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.36, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.17, 'sad': 0.12, 'surprise': 0.01, 'neutral': 0.12}
+DEBUG:root:(angry 0.36)
+DEBUG:root:Inference Time : 0.0029976367950439453
+DEBUG:root:Total time : 0.0260007381439209
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.3, 'happy': 0.08, 'sad': 0.18, 'surprise': 0.01, 'neutral': 0.1}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.0410003662109375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.3, 'happy': 0.08, 'sad': 0.18, 'surprise': 0.01, 'neutral': 0.1}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.0029976367950439453
+DEBUG:root:Total time : 0.012004375457763672
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.45, 'disgust': 0.0, 'fear': 0.23, 'happy': 0.02, 'sad': 0.22, 'surprise': 0.01, 'neutral': 0.08}
+DEBUG:root:(angry 0.45)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.011003971099853516
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.27, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.02, 'sad': 0.36, 'surprise': 0.01, 'neutral': 0.12}
+DEBUG:root:(sad 0.36)
+DEBUG:root:Inference Time : 0.0029926300048828125
+DEBUG:root:Total time : 0.021005868911743164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.19, 'happy': 0.07, 'sad': 0.29, 'surprise': 0.01, 'neutral': 0.11}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.004001140594482422
+DEBUG:root:Total time : 0.027979373931884766
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.3, 'disgust': 0.0, 'fear': 0.15, 'happy': 0.02, 'sad': 0.42, 'surprise': 0.0, 'neutral': 0.1}
+DEBUG:root:(sad 0.42)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.022005558013916016
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.32, 'disgust': 0.0, 'fear': 0.13, 'happy': 0.02, 'sad': 0.43, 'surprise': 0.0, 'neutral': 0.1}
+DEBUG:root:(sad 0.43)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.05099916458129883
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.29, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.1, 'sad': 0.33, 'surprise': 0.01, 'neutral': 0.16}
+DEBUG:root:(sad 0.33)
+DEBUG:root:Inference Time : 0.0029985904693603516
+DEBUG:root:Total time : 0.03000640869140625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.21, 'disgust': 0.0, 'fear': 0.17, 'happy': 0.14, 'sad': 0.36, 'surprise': 0.01, 'neutral': 0.11}
+DEBUG:root:(sad 0.36)
+DEBUG:root:Inference Time : 0.001998424530029297
+DEBUG:root:Total time : 0.025002479553222656
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.33, 'disgust': 0.0, 'fear': 0.1, 'happy': 0.14, 'sad': 0.27, 'surprise': 0.01, 'neutral': 0.15}
+DEBUG:root:(angry 0.33)
+DEBUG:root:Inference Time : 0.0019965171813964844
+DEBUG:root:Total time : 0.025999069213867188
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.39, 'disgust': 0.0, 'fear': 0.13, 'happy': 0.14, 'sad': 0.23, 'surprise': 0.01, 'neutral': 0.09}
+DEBUG:root:(angry 0.39)
+DEBUG:root:Inference Time : 0.002994060516357422
+DEBUG:root:Total time : 0.0410006046295166
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.39, 'disgust': 0.0, 'fear': 0.13, 'happy': 0.14, 'sad': 0.23, 'surprise': 0.01, 'neutral': 0.09}
+DEBUG:root:(angry 0.39)
+DEBUG:root:Inference Time : 0.001995086669921875
+DEBUG:root:Total time : 0.011000871658325195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.42, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.08, 'sad': 0.22, 'surprise': 0.01, 'neutral': 0.06}
+DEBUG:root:(angry 0.42)
+DEBUG:root:Inference Time : 0.0019989013671875
+DEBUG:root:Total time : 0.010000944137573242
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.43, 'disgust': 0.0, 'fear': 0.19, 'happy': 0.06, 'sad': 0.21, 'surprise': 0.01, 'neutral': 0.1}
+DEBUG:root:(angry 0.43)
+DEBUG:root:Inference Time : 0.0019943714141845703
+DEBUG:root:Total time : 0.019999027252197266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.31, 'disgust': 0.0, 'fear': 0.26, 'happy': 0.12, 'sad': 0.2, 'surprise': 0.01, 'neutral': 0.09}
+DEBUG:root:(angry 0.31)
+DEBUG:root:Inference Time : 0.001995563507080078
+DEBUG:root:Total time : 0.0260012149810791
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.4, 'disgust': 0.0, 'fear': 0.18, 'happy': 0.12, 'sad': 0.19, 'surprise': 0.01, 'neutral': 0.1}
+DEBUG:root:(angry 0.4)
+DEBUG:root:Inference Time : 0.0020017623901367188
+DEBUG:root:Total time : 0.027007579803466797
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.3, 'disgust': 0.0, 'fear': 0.33, 'happy': 0.08, 'sad': 0.17, 'surprise': 0.02, 'neutral': 0.11}
+DEBUG:root:(fear 0.33)
+DEBUG:root:Inference Time : 0.0019943714141845703
+DEBUG:root:Total time : 0.022997379302978516
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.37, 'disgust': 0.0, 'fear': 0.21, 'happy': 0.12, 'sad': 0.15, 'surprise': 0.01, 'neutral': 0.13}
+DEBUG:root:(angry 0.37)
+DEBUG:root:Inference Time : 0.0019943714141845703
+DEBUG:root:Total time : 0.027008056640625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.31, 'disgust': 0.0, 'fear': 0.21, 'happy': 0.28, 'sad': 0.11, 'surprise': 0.01, 'neutral': 0.07}
+DEBUG:root:(angry 0.31)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.05600261688232422
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.4, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.28, 'sad': 0.14, 'surprise': 0.01, 'neutral': 0.09}
+DEBUG:root:(angry 0.4)
+DEBUG:root:Inference Time : 0.0019965171813964844
+DEBUG:root:Total time : 0.02700018882751465
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.34, 'disgust': 0.0, 'fear': 0.14, 'happy': 0.17, 'sad': 0.19, 'surprise': 0.0, 'neutral': 0.16}
+DEBUG:root:(angry 0.34)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.024999618530273438
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.42, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.13, 'sad': 0.2, 'surprise': 0.0, 'neutral': 0.13}
+DEBUG:root:(angry 0.42)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.04100322723388672
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.42, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.13, 'sad': 0.2, 'surprise': 0.0, 'neutral': 0.13}
+DEBUG:root:(angry 0.42)
+DEBUG:root:Inference Time : 0.001990079879760742
+DEBUG:root:Total time : 0.012003421783447266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.0, 'fear': 0.12, 'happy': 0.03, 'sad': 0.46, 'surprise': 0.0, 'neutral': 0.15}
+DEBUG:root:(sad 0.46)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.0120086669921875
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.4, 'disgust': 0.0, 'fear': 0.15, 'happy': 0.13, 'sad': 0.18, 'surprise': 0.01, 'neutral': 0.13}
+DEBUG:root:(angry 0.4)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.019002199172973633
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.5, 'disgust': 0.0, 'fear': 0.14, 'happy': 0.12, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.1}
+DEBUG:root:(angry 0.5)
+DEBUG:root:Inference Time : 0.0029959678649902344
+DEBUG:root:Total time : 0.027001619338989258
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.28, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.38, 'sad': 0.11, 'surprise': 0.01, 'neutral': 0.11}
+DEBUG:root:(happy 0.38)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.0250091552734375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.23, 'disgust': 0.0, 'fear': 0.12, 'happy': 0.26, 'sad': 0.11, 'surprise': 0.02, 'neutral': 0.25}
+DEBUG:root:(happy 0.26)
+DEBUG:root:Inference Time : 0.0019974708557128906
+DEBUG:root:Total time : 0.022005081176757812
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.18, 'disgust': 0.0, 'fear': 0.22, 'happy': 0.06, 'sad': 0.3, 'surprise': 0.01, 'neutral': 0.23}
+DEBUG:root:(sad 0.3)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.026997804641723633
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.15, 'disgust': 0.0, 'fear': 0.09, 'happy': 0.13, 'sad': 0.28, 'surprise': 0.01, 'neutral': 0.34}
+DEBUG:root:(neutral 0.34)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.023003816604614258
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.21, 'sad': 0.18, 'surprise': 0.02, 'neutral': 0.37}
+DEBUG:root:(neutral 0.37)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.06100916862487793
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.11, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.3, 'sad': 0.12, 'surprise': 0.01, 'neutral': 0.39}
+DEBUG:root:(neutral 0.39)
+DEBUG:root:Inference Time : 0.002000570297241211
+DEBUG:root:Total time : 0.04000735282897949
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.11, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.3, 'sad': 0.12, 'surprise': 0.01, 'neutral': 0.39}
+DEBUG:root:(neutral 0.39)
+DEBUG:root:Inference Time : 0.0030031204223632812
+DEBUG:root:Total time : 0.011027336120605469
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.57, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.2}
+DEBUG:root:(happy 0.57)
+DEBUG:root:Inference Time : 0.002970457077026367
+DEBUG:root:Total time : 0.010000944137573242
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.58, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.23}
+DEBUG:root:(happy 0.58)
+DEBUG:root:Inference Time : 0.0029931068420410156
+DEBUG:root:Total time : 0.018002748489379883
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.52, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.27}
+DEBUG:root:(happy 0.52)
+DEBUG:root:Inference Time : 0.002000093460083008
+DEBUG:root:Total time : 0.024014711380004883
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.08, 'happy': 0.29, 'sad': 0.1, 'surprise': 0.02, 'neutral': 0.44}
+DEBUG:root:(neutral 0.44)
+DEBUG:root:Inference Time : 0.0019965171813964844
+DEBUG:root:Total time : 0.02699899673461914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.34, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.58}
+DEBUG:root:(neutral 0.58)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.024999618530273438
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.52, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.42}
+DEBUG:root:(happy 0.52)
+DEBUG:root:Inference Time : 0.001995563507080078
+DEBUG:root:Total time : 0.0240018367767334
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.79, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.2}
+DEBUG:root:(happy 0.79)
+DEBUG:root:Inference Time : 0.002999544143676758
+DEBUG:root:Total time : 0.025003671646118164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.97, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.97)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.025003433227539062
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.97, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.97)
+DEBUG:root:Inference Time : 0.001996278762817383
+DEBUG:root:Total time : 0.029006004333496094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.03900432586669922
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003001689910888672
+DEBUG:root:Total time : 0.025005817413330078
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0020051002502441406
+DEBUG:root:Total time : 0.02200007438659668
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019960403442382812
+DEBUG:root:Total time : 0.026001930236816406
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.025005340576171875
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002994537353515625
+DEBUG:root:Total time : 0.025005578994750977
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.023997068405151367
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.026998519897460938
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029976367950439453
+DEBUG:root:Total time : 0.0260009765625
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0040013790130615234
+DEBUG:root:Total time : 0.029009103775024414
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029952526092529297
+DEBUG:root:Total time : 0.03499770164489746
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.025006771087646484
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019998550415039062
+DEBUG:root:Total time : 0.023005247116088867
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002994060516357422
+DEBUG:root:Total time : 0.02799701690673828
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003001689910888672
+DEBUG:root:Total time : 0.026004314422607422
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0029938220977783203
+DEBUG:root:Total time : 0.02500295639038086
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.02399921417236328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019965171813964844
+DEBUG:root:Total time : 0.025005817413330078
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.05800008773803711
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003002166748046875
+DEBUG:root:Total time : 0.011007308959960938
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002996206283569336
+DEBUG:root:Total time : 0.02399754524230957
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.003991127014160156
+DEBUG:root:Total time : 0.021003246307373047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0019941329956054688
+DEBUG:root:Total time : 0.027006864547729492
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.0020079612731933594
+DEBUG:root:Total time : 0.027001380920410156
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 1.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}
+DEBUG:root:(happy 1.0)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.031011581420898438
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.98, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.01}
+DEBUG:root:(happy 0.98)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.022006750106811523
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.92, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.04}
+DEBUG:root:(happy 0.92)
+DEBUG:root:Inference Time : 0.0029935836791992188
+DEBUG:root:Total time : 0.023001909255981445
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.85, 'sad': 0.01, 'surprise': 0.0, 'neutral': 0.06}
+DEBUG:root:(happy 0.85)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.026001453399658203
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.82, 'sad': 0.01, 'surprise': 0.0, 'neutral': 0.13}
+DEBUG:root:(happy 0.82)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.024003982543945312
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.73, 'sad': 0.01, 'surprise': 0.01, 'neutral': 0.21}
+DEBUG:root:(happy 0.73)
+DEBUG:root:Inference Time : 0.0019979476928710938
+DEBUG:root:Total time : 0.022999286651611328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.57, 'sad': 0.02, 'surprise': 0.02, 'neutral': 0.33}
+DEBUG:root:(happy 0.57)
+DEBUG:root:Inference Time : 0.0029959678649902344
+DEBUG:root:Total time : 0.026002883911132812
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.42, 'sad': 0.02, 'surprise': 0.03, 'neutral': 0.46}
+DEBUG:root:(neutral 0.46)
+DEBUG:root:Inference Time : 0.002001047134399414
+DEBUG:root:Total time : 0.040992021560668945
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.43, 'sad': 0.01, 'surprise': 0.04, 'neutral': 0.47}
+DEBUG:root:(neutral 0.47)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.024007797241210938
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.39, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.53}
+DEBUG:root:(neutral 0.53)
+DEBUG:root:Inference Time : 0.002988576889038086
+DEBUG:root:Total time : 0.023998737335205078
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.49, 'sad': 0.02, 'surprise': 0.02, 'neutral': 0.4}
+DEBUG:root:(happy 0.49)
+DEBUG:root:Inference Time : 0.001996755599975586
+DEBUG:root:Total time : 0.02400517463684082
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.31, 'sad': 0.02, 'surprise': 0.02, 'neutral': 0.58}
+DEBUG:root:(neutral 0.58)
+DEBUG:root:Inference Time : 0.002994537353515625
+DEBUG:root:Total time : 0.02600407600402832
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.43, 'sad': 0.01, 'surprise': 0.03, 'neutral': 0.5}
+DEBUG:root:(neutral 0.5)
+DEBUG:root:Inference Time : 0.0019941329956054688
+DEBUG:root:Total time : 0.02400064468383789
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.8, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.19}
+DEBUG:root:(happy 0.8)
+DEBUG:root:Inference Time : 0.001999378204345703
+DEBUG:root:Total time : 0.02400946617126465
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.97, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.97)
+DEBUG:root:Inference Time : 0.0029916763305664062
+DEBUG:root:Total time : 0.026999473571777344
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.99, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.01}
+DEBUG:root:(happy 0.99)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.02300262451171875
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.97, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.97)
+DEBUG:root:Inference Time : 0.0029916763305664062
+DEBUG:root:Total time : 0.02599811553955078
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.94, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.06}
+DEBUG:root:(happy 0.94)
+DEBUG:root:Inference Time : 0.001994609832763672
+DEBUG:root:Total time : 0.040000200271606445
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.96, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.04}
+DEBUG:root:(happy 0.96)
+DEBUG:root:Inference Time : 0.0019965171813964844
+DEBUG:root:Total time : 0.025000810623168945
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.98, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.02}
+DEBUG:root:(happy 0.98)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.024003982543945312
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.98, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.02}
+DEBUG:root:(happy 0.98)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.02300548553466797
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.98, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.01}
+DEBUG:root:(happy 0.98)
+DEBUG:root:Inference Time : 0.0029993057250976562
+DEBUG:root:Total time : 0.025009632110595703
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.98, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.02}
+DEBUG:root:(happy 0.98)
+DEBUG:root:Inference Time : 0.0019989013671875
+DEBUG:root:Total time : 0.0250091552734375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.99, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.01}
+DEBUG:root:(happy 0.99)
+DEBUG:root:Inference Time : 0.0019986629486083984
+DEBUG:root:Total time : 0.026003122329711914
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.98, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.02}
+DEBUG:root:(happy 0.98)
+DEBUG:root:Inference Time : 0.0030028820037841797
+DEBUG:root:Total time : 0.02800726890563965
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.97, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.97)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.028011322021484375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.95, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.05}
+DEBUG:root:(happy 0.95)
+DEBUG:root:Inference Time : 0.0010018348693847656
+DEBUG:root:Total time : 0.023997783660888672
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.97, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.02}
+DEBUG:root:(happy 0.97)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.042002201080322266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.97, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.03}
+DEBUG:root:(happy 0.97)
+DEBUG:root:Inference Time : 0.0029981136322021484
+DEBUG:root:Total time : 0.024997472763061523
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.94, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.05}
+DEBUG:root:(happy 0.94)
+DEBUG:root:Inference Time : 0.0019969940185546875
+DEBUG:root:Total time : 0.024999380111694336
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.87, 'sad': 0.01, 'surprise': 0.0, 'neutral': 0.1}
+DEBUG:root:(happy 0.87)
+DEBUG:root:Inference Time : 0.002997159957885742
+DEBUG:root:Total time : 0.024001598358154297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.8, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.15}
+DEBUG:root:(happy 0.8)
+DEBUG:root:Inference Time : 0.0019936561584472656
+DEBUG:root:Total time : 0.02599954605102539
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.01, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.68, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.26}
+DEBUG:root:(happy 0.68)
+DEBUG:root:Inference Time : 0.003994941711425781
+DEBUG:root:Total time : 0.025993824005126953
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.49, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.41}
+DEBUG:root:(happy 0.49)
+DEBUG:root:Inference Time : 0.0019936561584472656
+DEBUG:root:Total time : 0.025007247924804688
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.47, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.45}
+DEBUG:root:(happy 0.47)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.02299952507019043
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.33, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.57}
+DEBUG:root:(neutral 0.57)
+DEBUG:root:Inference Time : 0.0029900074005126953
+DEBUG:root:Total time : 0.027000904083251953
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.43, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.45}
+DEBUG:root:(neutral 0.45)
+DEBUG:root:Inference Time : 0.0029931068420410156
+DEBUG:root:Total time : 0.02600836753845215
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.28, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.62}
+DEBUG:root:(neutral 0.62)
+DEBUG:root:Inference Time : 0.000993967056274414
+DEBUG:root:Total time : 0.040998220443725586
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.37, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.53}
+DEBUG:root:(neutral 0.53)
+DEBUG:root:Inference Time : 0.001995563507080078
+DEBUG:root:Total time : 0.02500009536743164
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.36, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.52}
+DEBUG:root:(neutral 0.52)
+DEBUG:root:Inference Time : 0.0020017623901367188
+DEBUG:root:Total time : 0.025000810623168945
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.41, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.52}
+DEBUG:root:(neutral 0.52)
+DEBUG:root:Inference Time : 0.0029914379119873047
+DEBUG:root:Total time : 0.027001142501831055
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.59, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.27}
+DEBUG:root:(happy 0.59)
+DEBUG:root:Inference Time : 0.0029969215393066406
+DEBUG:root:Total time : 0.024002790451049805
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.52, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.37}
+DEBUG:root:(happy 0.52)
+DEBUG:root:Inference Time : 0.001999378204345703
+DEBUG:root:Total time : 0.023005247116088867
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.32, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.54}
+DEBUG:root:(neutral 0.54)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.02900528907775879
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.45, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.42}
+DEBUG:root:(happy 0.45)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.027994871139526367
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.41, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.44}
+DEBUG:root:(neutral 0.44)
+DEBUG:root:Inference Time : 0.0029914379119873047
+DEBUG:root:Total time : 0.022999286651611328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.16, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.71}
+DEBUG:root:(neutral 0.71)
+DEBUG:root:Inference Time : 0.004976034164428711
+DEBUG:root:Total time : 0.025010347366333008
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.46, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.39}
+DEBUG:root:(happy 0.46)
+DEBUG:root:Inference Time : 0.003998279571533203
+DEBUG:root:Total time : 0.04500389099121094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.46, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.42}
+DEBUG:root:(happy 0.46)
+DEBUG:root:Inference Time : 0.0029916763305664062
+DEBUG:root:Total time : 0.024991750717163086
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.29, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.57}
+DEBUG:root:(neutral 0.57)
+DEBUG:root:Inference Time : 0.005997657775878906
+DEBUG:root:Total time : 0.02400970458984375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.25, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.6}
+DEBUG:root:(neutral 0.6)
+DEBUG:root:Inference Time : 0.003996610641479492
+DEBUG:root:Total time : 0.023001670837402344
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.34, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.49}
+DEBUG:root:(neutral 0.49)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.05300116539001465
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.34, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.49}
+DEBUG:root:(neutral 0.49)
+DEBUG:root:Inference Time : 0.0029969215393066406
+DEBUG:root:Total time : 0.013996601104736328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.08, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.75}
+DEBUG:root:(neutral 0.75)
+DEBUG:root:Inference Time : 0.002000570297241211
+DEBUG:root:Total time : 0.012003421783447266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.12, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.72}
+DEBUG:root:(neutral 0.72)
+DEBUG:root:Inference Time : 0.0019931793212890625
+DEBUG:root:Total time : 0.018001079559326172
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.16, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.71}
+DEBUG:root:(neutral 0.71)
+DEBUG:root:Inference Time : 0.0029947757720947266
+DEBUG:root:Total time : 0.02199578285217285
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.17, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.71}
+DEBUG:root:(neutral 0.71)
+DEBUG:root:Inference Time : 0.002993345260620117
+DEBUG:root:Total time : 0.02200007438659668
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.1, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.77}
+DEBUG:root:(neutral 0.77)
+DEBUG:root:Inference Time : 0.0030002593994140625
+DEBUG:root:Total time : 0.041999101638793945
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.1, 'sad': 0.05, 'surprise': 0.01, 'neutral': 0.77}
+DEBUG:root:(neutral 0.77)
+DEBUG:root:Inference Time : 0.0019996166229248047
+DEBUG:root:Total time : 0.015995502471923828
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.21, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.69}
+DEBUG:root:(neutral 0.69)
+DEBUG:root:Inference Time : 0.0029976367950439453
+DEBUG:root:Total time : 0.014002084732055664
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.21, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.7}
+DEBUG:root:(neutral 0.7)
+DEBUG:root:Inference Time : 0.003000020980834961
+DEBUG:root:Total time : 0.0480043888092041
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.11, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.78}
+DEBUG:root:(neutral 0.78)
+DEBUG:root:Inference Time : 0.005003929138183594
+DEBUG:root:Total time : 0.02502155303955078
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.12, 'sad': 0.04, 'surprise': 0.0, 'neutral': 0.78}
+DEBUG:root:(neutral 0.78)
+DEBUG:root:Inference Time : 0.0029976367950439453
+DEBUG:root:Total time : 0.024010181427001953
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.25, 'sad': 0.04, 'surprise': 0.01, 'neutral': 0.6}
+DEBUG:root:(neutral 0.6)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.022013187408447266
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.38, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.49}
+DEBUG:root:(neutral 0.49)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.024001598358154297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.41, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.48}
+DEBUG:root:(neutral 0.48)
+DEBUG:root:Inference Time : 0.0019958019256591797
+DEBUG:root:Total time : 0.022986173629760742
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.11, 'sad': 0.03, 'surprise': 0.01, 'neutral': 0.77}
+DEBUG:root:(neutral 0.77)
+DEBUG:root:Inference Time : 0.002996683120727539
+DEBUG:root:Total time : 0.029001235961914062
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.52, 'sad': 0.02, 'surprise': 0.01, 'neutral': 0.38}
+DEBUG:root:(happy 0.52)
+DEBUG:root:Inference Time : 0.003981828689575195
+DEBUG:root:Total time : 0.02400040626525879
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.16, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.7}
+DEBUG:root:(neutral 0.7)
+DEBUG:root:Inference Time : 0.003009796142578125
+DEBUG:root:Total time : 0.041002750396728516
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.16, 'sad': 0.06, 'surprise': 0.01, 'neutral': 0.7}
+DEBUG:root:(neutral 0.7)
+DEBUG:root:Inference Time : 0.0029990673065185547
+DEBUG:root:Total time : 0.015004158020019531
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.11, 'sad': 0.09, 'surprise': 0.0, 'neutral': 0.71}
+DEBUG:root:(neutral 0.71)
+DEBUG:root:Inference Time : 0.002995729446411133
+DEBUG:root:Total time : 0.012992143630981445
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.17, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.14, 'sad': 0.16, 'surprise': 0.0, 'neutral': 0.48}
+DEBUG:root:(neutral 0.48)
+DEBUG:root:Inference Time : 0.0039980411529541016
+DEBUG:root:Total time : 0.017990827560424805
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.01, 'sad': 0.38, 'surprise': 0.01, 'neutral': 0.46}
+DEBUG:root:(neutral 0.46)
+DEBUG:root:Inference Time : 0.003003835678100586
+DEBUG:root:Total time : 0.05500316619873047
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.03, 'sad': 0.19, 'surprise': 0.01, 'neutral': 0.7}
+DEBUG:root:(neutral 0.7)
+DEBUG:root:Inference Time : 0.001997709274291992
+DEBUG:root:Total time : 0.022999286651611328
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.11, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.09, 'sad': 0.14, 'surprise': 0.02, 'neutral': 0.59}
+DEBUG:root:(neutral 0.59)
+DEBUG:root:Inference Time : 0.002999544143676758
+DEBUG:root:Total time : 0.02599048614501953
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.09, 'sad': 0.15, 'surprise': 0.01, 'neutral': 0.65}
+DEBUG:root:(neutral 0.65)
+DEBUG:root:Inference Time : 0.002001523971557617
+DEBUG:root:Total time : 0.024993896484375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.11, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.68}
+DEBUG:root:(neutral 0.68)
+DEBUG:root:Inference Time : 0.001995086669921875
+DEBUG:root:Total time : 0.025985240936279297
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.02, 'sad': 0.11, 'surprise': 0.01, 'neutral': 0.77}
+DEBUG:root:(neutral 0.77)
+DEBUG:root:Inference Time : 0.001994609832763672
+DEBUG:root:Total time : 0.025997161865234375
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.16, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.02, 'sad': 0.19, 'surprise': 0.02, 'neutral': 0.54}
+DEBUG:root:(neutral 0.54)
+DEBUG:root:Inference Time : 0.0030031204223632812
+DEBUG:root:Total time : 0.04099535942077637
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.16, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.02, 'sad': 0.19, 'surprise': 0.02, 'neutral': 0.54}
+DEBUG:root:(neutral 0.54)
+DEBUG:root:Inference Time : 0.0029997825622558594
+DEBUG:root:Total time : 0.012984037399291992
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.09, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.03, 'sad': 0.17, 'surprise': 0.03, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.00299835205078125
+DEBUG:root:Total time : 0.011000633239746094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.08, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.61}
+DEBUG:root:(neutral 0.61)
+DEBUG:root:Inference Time : 0.002998828887939453
+DEBUG:root:Total time : 0.017998218536376953
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.14, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.03, 'sad': 0.12, 'surprise': 0.02, 'neutral': 0.67}
+DEBUG:root:(neutral 0.67)
+DEBUG:root:Inference Time : 0.004993438720703125
+DEBUG:root:Total time : 0.022004365921020508
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.02, 'sad': 0.12, 'surprise': 0.03, 'neutral': 0.75}
+DEBUG:root:(neutral 0.75)
+DEBUG:root:Inference Time : 0.0029969215393066406
+DEBUG:root:Total time : 0.023003339767456055
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.01, 'sad': 0.07, 'surprise': 0.01, 'neutral': 0.83}
+DEBUG:root:(neutral 0.83)
+DEBUG:root:Inference Time : 0.002003908157348633
+DEBUG:root:Total time : 0.057009220123291016
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.02, 'sad': 0.14, 'surprise': 0.01, 'neutral': 0.77}
+DEBUG:root:(neutral 0.77)
+DEBUG:root:Inference Time : 0.003997802734375
+DEBUG:root:Total time : 0.028000354766845703
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.01, 'happy': 0.02, 'sad': 0.14, 'surprise': 0.0, 'neutral': 0.79}
+DEBUG:root:(neutral 0.79)
+DEBUG:root:Inference Time : 0.0019998550415039062
+DEBUG:root:Total time : 0.024994850158691406
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.05, 'sad': 0.17, 'surprise': 0.02, 'neutral': 0.67}
+DEBUG:root:(neutral 0.67)
+DEBUG:root:Inference Time : 0.0019969940185546875
+DEBUG:root:Total time : 0.022003650665283203
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.03, 'sad': 0.24, 'surprise': 0.01, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.0019989013671875
+DEBUG:root:Total time : 0.04199695587158203
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.03, 'sad': 0.24, 'surprise': 0.01, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.003000020980834961
+DEBUG:root:Total time : 0.011002302169799805
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.03, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.78}
+DEBUG:root:(neutral 0.78)
+DEBUG:root:Inference Time : 0.0019943714141845703
+DEBUG:root:Total time : 0.010004758834838867
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.01, 'sad': 0.19, 'surprise': 0.0, 'neutral': 0.75}
+DEBUG:root:(neutral 0.75)
+DEBUG:root:Inference Time : 0.003000974655151367
+DEBUG:root:Total time : 0.020003557205200195
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.02, 'sad': 0.26, 'surprise': 0.0, 'neutral': 0.63}
+DEBUG:root:(neutral 0.63)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.025004863739013672
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.06, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.06, 'sad': 0.24, 'surprise': 0.01, 'neutral': 0.58}
+DEBUG:root:(neutral 0.58)
+DEBUG:root:Inference Time : 0.0030035972595214844
+DEBUG:root:Total time : 0.026007890701293945
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.03, 'sad': 0.22, 'surprise': 0.01, 'neutral': 0.66}
+DEBUG:root:(neutral 0.66)
+DEBUG:root:Inference Time : 0.0029985904693603516
+DEBUG:root:Total time : 0.026999235153198242
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.04, 'sad': 0.14, 'surprise': 0.0, 'neutral': 0.77}
+DEBUG:root:(neutral 0.77)
+DEBUG:root:Inference Time : 0.0019948482513427734
+DEBUG:root:Total time : 0.020004749298095703
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.04, 'sad': 0.2, 'surprise': 0.01, 'neutral': 0.64}
+DEBUG:root:(neutral 0.64)
+DEBUG:root:Inference Time : 0.0019948482513427734
+DEBUG:root:Total time : 0.057000160217285156
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.11, 'happy': 0.07, 'sad': 0.24, 'surprise': 0.01, 'neutral': 0.45}
+DEBUG:root:(neutral 0.45)
+DEBUG:root:Inference Time : 0.0019979476928710938
+DEBUG:root:Total time : 0.026998043060302734
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.01, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.79}
+DEBUG:root:(neutral 0.79)
+DEBUG:root:Inference Time : 0.0019981861114501953
+DEBUG:root:Total time : 0.043999671936035156
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.01, 'sad': 0.13, 'surprise': 0.01, 'neutral': 0.79}
+DEBUG:root:(neutral 0.79)
+DEBUG:root:Inference Time : 0.002995729446411133
+DEBUG:root:Total time : 0.010004281997680664
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.07, 'happy': 0.02, 'sad': 0.25, 'surprise': 0.01, 'neutral': 0.6}
+DEBUG:root:(neutral 0.6)
+DEBUG:root:Inference Time : 0.003000497817993164
+DEBUG:root:Total time : 0.010999441146850586
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.03, 'sad': 0.23, 'surprise': 0.01, 'neutral': 0.61}
+DEBUG:root:(neutral 0.61)
+DEBUG:root:Inference Time : 0.0019948482513427734
+DEBUG:root:Total time : 0.023002147674560547
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.12, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.04, 'sad': 0.23, 'surprise': 0.01, 'neutral': 0.54}
+DEBUG:root:(neutral 0.54)
+DEBUG:root:Inference Time : 0.0029985904693603516
+DEBUG:root:Total time : 0.024987459182739258
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.08, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.02, 'sad': 0.28, 'surprise': 0.0, 'neutral': 0.57}
+DEBUG:root:(neutral 0.57)
+DEBUG:root:Inference Time : 0.002994060516357422
+DEBUG:root:Total time : 0.0220034122467041
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.02, 'disgust': 0.0, 'fear': 0.02, 'happy': 0.06, 'sad': 0.14, 'surprise': 0.0, 'neutral': 0.76}
+DEBUG:root:(neutral 0.76)
+DEBUG:root:Inference Time : 0.002991199493408203
+DEBUG:root:Total time : 0.024001121520996094
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.03, 'happy': 0.02, 'sad': 0.24, 'surprise': 0.0, 'neutral': 0.68}
+DEBUG:root:(neutral 0.68)
+DEBUG:root:Inference Time : 0.001997232437133789
+DEBUG:root:Total time : 0.026017427444458008
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.04, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.02, 'sad': 0.31, 'surprise': 0.0, 'neutral': 0.57}
+DEBUG:root:(neutral 0.57)
+DEBUG:root:Inference Time : 0.0030007362365722656
+DEBUG:root:Total time : 0.027007341384887695
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.03, 'disgust': 0.0, 'fear': 0.04, 'happy': 0.02, 'sad': 0.22, 'surprise': 0.0, 'neutral': 0.68}
+DEBUG:root:(neutral 0.68)
+DEBUG:root:Inference Time : 0.0029973983764648438
+DEBUG:root:Total time : 0.0220029354095459
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.05, 'sad': 0.24, 'surprise': 0.0, 'neutral': 0.6}
+DEBUG:root:(neutral 0.6)
+DEBUG:root:Inference Time : 0.0020036697387695312
+DEBUG:root:Total time : 0.10500431060791016
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.05, 'disgust': 0.0, 'fear': 0.05, 'happy': 0.05, 'sad': 0.24, 'surprise': 0.0, 'neutral': 0.6}
+DEBUG:root:(neutral 0.6)
+DEBUG:root:Inference Time : 0.0019965171813964844
+DEBUG:root:Total time : 0.012022018432617188
+DEBUG:root:
+
+DEBUG:root:{'angry': 0.07, 'disgust': 0.0, 'fear': 0.06, 'happy': 0.03, 'sad': 0.27, 'surprise': 0.01, 'neutral': 0.56}
+DEBUG:root:(neutral 0.56)
+DEBUG:root:Inference Time : 0.0029969215393066406
+DEBUG:root:Total time : 0.011001348495483398
+DEBUG:root:
+

@@ -109,6 +109,8 @@ class FER():
 
         emotion_prediction = self.__emotion_classifier.get_tensor(self.__emotion_classifier.get_output_details()[0]['index'])[0]
         labelled_emotions = {self.__labels[idx]: round(float(score), 2) for idx, score in enumerate(emotion_prediction)}
+        # print(labelled_emotions)
+        logging.debug(labelled_emotions)
 
         emotion = max(labelled_emotions, key=labelled_emotions.get)
         score = max(labelled_emotions.values())
@@ -151,11 +153,12 @@ class FER():
                         face_coordinates, gray_face = self.__facepad(image, detection)
                         inference_start = time.time()
                         emotion, score = self.predict_emotion(gray_face)
-                        logging.debug('{0}: ({1} {2})'.format(time.time(), emotion, score))
+                        logging.debug('({0} {1})'.format(emotion, score))
                         logging.debug('Inference Time : {0}'.format(time.time() - inference_start))
                         image = self.display_results(image, face_coordinates, emotion, score)
                     cv2.imshow('MediaPipe Face Detection', image)
                     logging.debug('Total time : {}'.format(time.time()-start))
+                    logging.debug('\n')
                     if cv2.waitKey(5) & 0xFF == ord('q'):
                         break
         pass
